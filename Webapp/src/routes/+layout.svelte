@@ -1,13 +1,15 @@
 <script>
 	import '../app.css';
-	import { dev } from '$app/environment';
-	import { inject } from '@vercel/analytics';
 	import { fade } from 'svelte/transition';
 	import { page } from '$app/stores';
 	import Icon from '@iconify/svelte';
 	import { browser } from '$app/environment';
 	import { onMount } from 'svelte';
 
+	import { dev } from '$app/environment';
+	import { injectAnalytics } from '@vercel/analytics/sveltekit';
+
+	injectAnalytics({ mode: dev ? 'development' : 'production' });
 	let mobileMenuOpen = false;
 
 	function toggleDonationInfo() {
@@ -24,13 +26,6 @@
 	function closeMobileMenu() {
 		mobileMenuOpen = false;
 	}
-
-	onMount(() => {
-		if (browser) {
-			// Initialize Vercel Analytics
-			inject({ mode: dev ? 'development' : 'production' });
-		}
-	});
 </script>
 
 <nav class="navbar">
