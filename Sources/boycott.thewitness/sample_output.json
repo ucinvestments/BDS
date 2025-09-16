@@ -1,0 +1,49 @@
+{
+  "total_brands": 366,
+  "total_pages": 4,
+  "brands_with_details": 130,
+  "scraped_at": "2025-09-10T00:21:49Z",
+  "sample_enhanced_brands": [
+    {
+      "name": "Disney",
+      "image_url": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/02/Disney-Plus-logo-920x518.jpg",
+      "target_link": "/target/disney",
+      "page_number": 1,
+      "description": "The Walt Disney Company, commonly known as Disney, is an American multinational mass media and entertainment conglomerate",
+      "reason": "Disney made an official announcement that it will be pledging $2m and further initiatives to support Israel. Whilst the CEO explicitly condemned attacks on Jews in Israel, he made no mention of the Palestinian people who are being killed by the Israeli military.",
+      "categories": ["entertainment", "technology", "media"],
+      "how_to_boycott": [
+        "Don't work for Disney.",
+        "Don't subscribe to Disney+",
+        "Cancel Disney+ if you have it",
+        "Don't watch Disney movies.",
+        "Don't visit Disney theme parks.",
+        "Don't buy Disney merchandise.",
+        "Don't watch Disney TV shows."
+      ],
+      "alternatives": ["Alchemiya.com"],
+      "source": "https://www.yahoo.com/entertainment/disney-pledges-2-million-donation-032004758.html",
+      "details_fetched": true
+    },
+    {
+      "name": "Amazon",
+      "image_url": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning.jpg",
+      "target_link": "/target/amazon",
+      "page_number": 1,
+      "description": "Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.",
+      "reason": "Amazon Web Services hosts Israeli military and governmental systems. The company has contracts with the Israeli military and provides cloud computing services that enable surveillance and military operations against Palestinians.",
+      "categories": ["technology", "retail", "cloud"],
+      "how_to_boycott": [
+        "Don't shop on Amazon.com",
+        "Cancel Amazon Prime",
+        "Don't use Amazon Web Services",
+        "Don't use Alexa devices",
+        "Don't watch Amazon Prime Video",
+        "Don't use Amazon delivery services"
+      ],
+      "alternatives": ["Local stores", "eBay", "Direct from manufacturer websites"],
+      "source": "https://example.com/proof-link",
+      "details_fetched": true
+    }
+  ]
+}

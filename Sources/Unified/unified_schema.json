@@ -1,0 +1,236 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BDS Unified Company Data Schema",
+  "description": "Unified schema for BDS-related company information from multiple sources",
+  "type": "object",
+  "required": ["id", "name", "reasons", "data_sources", "last_updated"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the company",
+      "pattern": "^comp_[a-z0-9_]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Primary company/organization name",
+      "minLength": 1
+    },
+    "standard_name": {
+      "type": ["string", "null"],
+      "description": "Standardized legal name"
+    },
+    "aliases": {
+      "type": "array",
+      "description": "Alternative names, subsidiaries, brands",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "parent_company": {
+      "type": ["string", "null"],
+      "description": "Parent company if this is a subsidiary"
+    },
+    "country_hq": {
+      "type": ["string", "null"],
+      "description": "Country of headquarters"
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "Brief company description"
+    },
+    "stock_symbols": {
+      "type": "array",
+      "description": "Stock ticker information",
+      "items": {
+        "type": "object",
+        "required": ["symbol", "exchange"],
+        "properties": {
+          "symbol": {
+            "type": "string",
+            "description": "Stock ticker symbol"
+          },
+          "exchange": {
+            "type": "string",
+            "description": "Exchange name"
+          },
+          "isin": {
+            "type": ["string", "null"],
+            "description": "International Securities Identification Number",
+            "pattern": "^[A-Z]{2}[A-Z0-9]{10}$"
+          }
+        }
+      }
+    },
+    "industry": {
+      "type": ["string", "null"],
+      "description": "Primary industry classification"
+    },
+    "sectors": {
+      "type": "array",
+      "description": "Business sectors",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "involvement_types": {
+      "type": "array",
+      "description": "Types of problematic involvement",
+      "items": {
+        "type": "string",
+        "enum": [
+          "occupation",
+          "settlements",
+          "military_support",
+          "prison_industry",
+          "border_security",
+          "surveillance",
+          "financial_support",
+          "normalization",
+          "labor_violations",
+          "environmental"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "involvement_details": {
+      "type": "object",
+      "description": "Detailed involvement information",
+      "properties": {
+        "occupations": {
+          "type": "boolean",
+          "description": "Involved in occupations"
+        },
+        "prisons": {
+          "type": "boolean",
+          "description": "Prison industry involvement"
+        },
+        "borders": {
+          "type": "boolean",
+          "description": "Border militarization"
+        },
+        "settlements": {
+          "type": "boolean",
+          "description": "Israeli settlement activity"
+        },
+        "military": {
+          "type": "boolean",
+          "description": "Military/weapons involvement"
+        }
+      }
+    },
+    "divestment_priority": {
+      "type": ["string", "null"],
+      "description": "Priority level for divestment",
+      "enum": [null, "high", "medium", "low", "shortlist"]
+    },
+    "booth_number": {
+      "type": ["string", "null"],
+      "description": "Event booth number if applicable"
+    },
+    "reasons": {
+      "type": "array",
+      "description": "Reasons for listing",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["summary"],
+        "properties": {
+          "summary": {
+            "type": "string",
+            "description": "Brief reason for listing",
+            "minLength": 1
+          },
+          "details": {
+            "type": ["string", "null"],
+            "description": "Detailed explanation"
+          },
+          "source": {
+            "type": ["string", "null"],
+            "description": "Source URL or reference"
+          },
+          "date_added": {
+            "type": ["string", "null"],
+            "format": "date",
+            "description": "When reason was documented"
+          }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "description": "All source URLs/references",
+      "items": {
+        "type": "string",
+        "format": "uri-reference"
+      },
+      "uniqueItems": true
+    },
+    "evidence_links": {
+      "type": "array",
+      "description": "Direct evidence URLs",
+      "items": {
+        "type": "string",
+        "format": "uri-reference"
+      },
+      "uniqueItems": true
+    },
+    "boycott_actions": {
+      "type": "array",
+      "description": "Specific boycott actions",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "alternatives": {
+      "type": "array",
+      "description": "Alternative companies/products",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "campaigns": {
+      "type": "array",
+      "description": "Active campaign names",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "data_sources": {
+      "type": "array",
+      "description": "Which sources provided data",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": [
+          "investigate.afsc.org",
+          "boycott.thewitness",
+          "bdscoalition.ca",
+          "dontbuyintooccupation.org",
+          "whoprofits.org"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Last data update timestamp"
+    },
+    "confidence_score": {
+      "type": "number",
+      "description": "Data confidence score",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "verification_status": {
+      "type": "string",
+      "description": "Verification status of the data",
+      "enum": ["verified", "unverified", "disputed"]
+    }
+  }
+}

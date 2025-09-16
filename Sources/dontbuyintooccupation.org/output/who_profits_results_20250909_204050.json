@@ -1,0 +1,593 @@
+{
+  "metadata": {
+    "search_date": "2025-09-09T20:31:00.386337",
+    "total_companies": 98,
+    "companies_found": 9,
+    "companies_not_found": 89
+  },
+  "results": {
+    "20": {
+      "company_name": "Arm Guard",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Agrexco Carmel Agricultural Export Companyאגרקסקו כרמל חברה ליצוא חקלאי",
+          "traded_in": "Private",
+          "headquarters": "Israel",
+          "involvement": "Economic Exploitation|Palestinian Captive Market|Settlement Enterprise|Settlement Production|",
+          "search_term": "Arm"
+        }
+      ]
+    },
+    "21": {
+      "company_name": "Beghou",
+      "found": false,
+      "matches": []
+    },
+    "22": {
+      "company_name": "BoonAl",
+      "found": false,
+      "matches": []
+    },
+    "23": {
+      "company_name": "Nooks",
+      "found": false,
+      "matches": []
+    },
+    "24": {
+      "company_name": "L'Oréal",
+      "found": false,
+      "matches": []
+    },
+    "25": {
+      "company_name": "Clockwork Systems",
+      "found": false,
+      "matches": []
+    },
+    "26": {
+      "company_name": "Sonatus",
+      "found": false,
+      "matches": []
+    },
+    "27": {
+      "company_name": "JQ Investments",
+      "found": false,
+      "matches": []
+    },
+    "28": {
+      "company_name": "C3.ai",
+      "found": false,
+      "matches": []
+    },
+    "30": {
+      "company_name": "Qvest US",
+      "found": false,
+      "matches": []
+    },
+    "31": {
+      "company_name": "Akuna Capital",
+      "found": false,
+      "matches": []
+    },
+    "32": {
+      "company_name": "Credit One Bank",
+      "found": false,
+      "matches": []
+    },
+    "33": {
+      "company_name": "Upstart",
+      "found": false,
+      "matches": []
+    },
+    "34": {
+      "company_name": "Redwood Materials",
+      "found": false,
+      "matches": []
+    },
+    "35": {
+      "company_name": "MCM",
+      "found": false,
+      "matches": []
+    },
+    "36": {
+      "company_name": "CoinTracker",
+      "found": false,
+      "matches": []
+    },
+    "37": {
+      "company_name": "Two Dots",
+      "found": false,
+      "matches": []
+    },
+    "38": {
+      "company_name": "Canaan U.S. Inc",
+      "found": false,
+      "matches": []
+    },
+    "40": {
+      "company_name": "Lawrence Livermore",
+      "found": false,
+      "matches": []
+    },
+    "41": {
+      "company_name": "Kiso Technology",
+      "found": false,
+      "matches": []
+    },
+    "42": {
+      "company_name": "Southern California Edison",
+      "found": false,
+      "matches": []
+    },
+    "43": {
+      "company_name": "Hone Health",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Pelephone Communicationsפלאפון תקשורת בע\"מ",
+          "traded_in": "Private",
+          "headquarters": "Israel",
+          "involvement": "Economic Exploitation|Palestinian Captive Market|Settlement Enterprise|Israeli Construction on Occupied Land|Services to the Settlements|",
+          "search_term": "Hone"
+        }
+      ]
+    },
+    "44": {
+      "company_name": "Amgen",
+      "found": false,
+      "matches": []
+    },
+    "45": {
+      "company_name": "CoStar Group",
+      "found": false,
+      "matches": []
+    },
+    "46": {
+      "company_name": "Calpine Corporation",
+      "found": false,
+      "matches": []
+    },
+    "47": {
+      "company_name": "Electronic Power Research Institute",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "El-Far Electronics Systemsאל-פר מערכות אלקטרוניקה",
+          "traded_in": "Private",
+          "headquarters": "Israel",
+          "involvement": "Settlement Enterprise|Israeli Construction on Occupied Land|Services to the Settlements|Population Control|Specialized Equipment and Services|The Wall and Checkpoints|",
+          "search_term": "Electronic"
+        }
+      ]
+    },
+    "48": {
+      "company_name": "Glencore Ltd.",
+      "found": false,
+      "matches": []
+    },
+    "50": {
+      "company_name": "Sandia National Laboratories",
+      "found": false,
+      "matches": []
+    },
+    "51": {
+      "company_name": "Pacific Gas and Electric Company",
+      "found": false,
+      "matches": []
+    },
+    "52": {
+      "company_name": "QuantumScape",
+      "found": false,
+      "matches": []
+    },
+    "53": {
+      "company_name": "Johnson & Johnson",
+      "found": false,
+      "matches": []
+    },
+    "54": {
+      "company_name": "Arete",
+      "found": false,
+      "matches": []
+    },
+    "55": {
+      "company_name": "Blackhawk Network",
+      "found": false,
+      "matches": []
+    },
+    "56": {
+      "company_name": "Rubrik",
+      "found": false,
+      "matches": []
+    },
+    "57": {
+      "company_name": "Avangrid",
+      "found": false,
+      "matches": []
+    },
+    "58": {
+      "company_name": "Aurora Energy Research",
+      "found": false,
+      "matches": []
+    },
+    "60": {
+      "company_name": "ASM Guard",
+      "found": false,
+      "matches": []
+    },
+    "61": {
+      "company_name": "Group One Trading LLC",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "ABB Group",
+          "traded_in": "NASDAQ,NYSE,SIX",
+          "headquarters": "Sweden,Switzerland",
+          "involvement": "Economic Exploitation|Exploitation of Occupied Production and Resources|Settlement Enterprise|Israeli Construction on Occupied Land|Services to the Settlements|",
+          "search_term": "Group"
+        },
+        {
+          "company_name": "All Trade Groupאול - אין טרייד ישראל בע\"מ",
+          "traded_in": "Private",
+          "headquarters": "Israel,Occupied Palestinian Territory",
+          "involvement": "Settlement Enterprise|Settlement Production|Population Control|Specialized Equipment and Services|",
+          "search_term": "Group"
+        },
+        {
+          "company_name": "Amos Hadar Properties and Investments (Hadar Group)עמוס הדר נכסים והשקעות (קבוצת הדר)",
+          "traded_in": "TASE",
+          "headquarters": "Israel",
+          "involvement": "Settlement Enterprise|Israeli Construction on Occupied Land|",
+          "search_term": "Group"
+        },
+        {
+          "company_name": "Ashtrom Groupקבוצת אשטרום בע\"מ",
+          "traded_in": "TASE",
+          "headquarters": "Israel",
+          "involvement": "Economic Exploitation|Exploitation of Occupied Production and Resources|Settlement Enterprise|Israeli Construction on Occupied Land|Settlement Production|Population Control|Specialized Equipment and Services|The Wall and Checkpoints|",
+          "search_term": "Group"
+        }
+      ]
+    },
+    "62": {
+      "company_name": "Affiliated Engineers, Inc.",
+      "found": false,
+      "matches": []
+    },
+    "63": {
+      "company_name": "Boldt",
+      "found": false,
+      "matches": []
+    },
+    "64": {
+      "company_name": "Bio-Rad Laboratories",
+      "found": false,
+      "matches": []
+    },
+    "65": {
+      "company_name": "Inductive Automation",
+      "found": false,
+      "matches": []
+    },
+    "66": {
+      "company_name": "Aperture LLC",
+      "found": false,
+      "matches": []
+    },
+    "67": {
+      "company_name": "Southland Industries",
+      "found": false,
+      "matches": []
+    },
+    "68": {
+      "company_name": "MEA Forensic Engineers & Scientists",
+      "found": false,
+      "matches": []
+    },
+    "70": {
+      "company_name": "Peace Corps",
+      "found": false,
+      "matches": []
+    },
+    "71": {
+      "company_name": "PAE Engineers",
+      "found": false,
+      "matches": []
+    },
+    "72": {
+      "company_name": "Block",
+      "found": false,
+      "matches": []
+    },
+    "73": {
+      "company_name": "GALLO",
+      "found": false,
+      "matches": []
+    },
+    "74": {
+      "company_name": "Xenon Health",
+      "found": false,
+      "matches": []
+    },
+    "75": {
+      "company_name": "Metronome",
+      "found": false,
+      "matches": []
+    },
+    "76": {
+      "company_name": "EKI Environment & Water, Inc.",
+      "found": false,
+      "matches": []
+    },
+    "77": {
+      "company_name": "Rambus",
+      "found": false,
+      "matches": []
+    },
+    "78": {
+      "company_name": "Molex",
+      "found": false,
+      "matches": []
+    },
+    "80": {
+      "company_name": "TSMC",
+      "found": false,
+      "matches": []
+    },
+    "81": {
+      "company_name": "US Navy",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Ackerstein Industriesאקרשטיין תעשיות",
+          "traded_in": "Private",
+          "headquarters": "Israel",
+          "involvement": "Settlement Enterprise|Israeli Construction on Occupied Land|Population Control|Private Security and Surveillance Technology|Specialized Equipment and Services|The Wall and Checkpoints|",
+          "search_term": "US"
+        }
+      ]
+    },
+    "82": {
+      "company_name": "Epirus",
+      "found": false,
+      "matches": []
+    },
+    "83": {
+      "company_name": "Army National Guard",
+      "found": false,
+      "matches": []
+    },
+    "84": {
+      "company_name": "DiCon Fiberoptics, Inc.",
+      "found": false,
+      "matches": []
+    },
+    "85": {
+      "company_name": "Kairos Power",
+      "found": false,
+      "matches": []
+    },
+    "86": {
+      "company_name": "Martinez Refining Company",
+      "found": false,
+      "matches": []
+    },
+    "87": {
+      "company_name": "Anning-Johnson Company",
+      "found": false,
+      "matches": []
+    },
+    "88": {
+      "company_name": "Bloom Energy",
+      "found": false,
+      "matches": []
+    },
+    "90": {
+      "company_name": "Aurora Energy Research",
+      "found": false,
+      "matches": []
+    },
+    "91": {
+      "company_name": "KLA",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Hadiklaim - Israel Date Growers Cooperativeהדקלאים אגודה שיתופית חקלאית מרכזית בע\"מ",
+          "traded_in": "Cooperative",
+          "headquarters": "Israel",
+          "involvement": "Settlement Enterprise|Settlement Production|",
+          "search_term": "KLA"
+        }
+      ]
+    },
+    "92": {
+      "company_name": "Huaqin Technology",
+      "found": false,
+      "matches": []
+    },
+    "93": {
+      "company_name": "Epic",
+      "found": false,
+      "matches": []
+    },
+    "94": {
+      "company_name": "Keck Graduate Institute",
+      "found": false,
+      "matches": []
+    },
+    "95": {
+      "company_name": "Calico",
+      "found": false,
+      "matches": []
+    },
+    "96": {
+      "company_name": "BioMarin",
+      "found": false,
+      "matches": []
+    },
+    "97": {
+      "company_name": "ORISE FBI Visiting Scientist Program",
+      "found": false,
+      "matches": []
+    },
+    "98": {
+      "company_name": "National Security Agency",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Altice International",
+          "traded_in": "Private",
+          "headquarters": "Luxembourg",
+          "involvement": "Economic Exploitation|Palestinian Captive Market|Settlement Enterprise|Israeli Construction on Occupied Land|Services to the Settlements|Population Control|Specialized Equipment and Services|The Wall and Checkpoints|",
+          "search_term": "National"
+        }
+      ]
+    },
+    "100": {
+      "company_name": "Workday, Inc",
+      "found": false,
+      "matches": []
+    },
+    "101": {
+      "company_name": "Eli Lilly and Company",
+      "found": false,
+      "matches": []
+    },
+    "102": {
+      "company_name": "Hewlett Packard Enterprise (HPE)",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Hewlett Packard Enterprise (HPE)",
+          "traded_in": "NYSE",
+          "headquarters": "USA",
+          "involvement": "Population Control|Specialized Equipment and Services|",
+          "search_term": "Hewlett Packard Enterprise (HPE)"
+        }
+      ]
+    },
+    "103": {
+      "company_name": "Fieldguide",
+      "found": false,
+      "matches": []
+    },
+    "104": {
+      "company_name": "Matroid, Inc",
+      "found": false,
+      "matches": []
+    },
+    "105": {
+      "company_name": "Sourcegraph",
+      "found": false,
+      "matches": []
+    },
+    "106": {
+      "company_name": "AVEVA",
+      "found": false,
+      "matches": []
+    },
+    "107": {
+      "company_name": "SICK",
+      "found": false,
+      "matches": []
+    },
+    "108": {
+      "company_name": "Seven Research",
+      "found": false,
+      "matches": []
+    },
+    "109": {
+      "company_name": "Aven",
+      "found": false,
+      "matches": []
+    },
+    "200": {
+      "company_name": "KOTRA Silicon Valley",
+      "found": false,
+      "matches": []
+    },
+    "201": {
+      "company_name": "ACCO Engineered Systems",
+      "found": false,
+      "matches": []
+    },
+    "202": {
+      "company_name": "Micron Technology",
+      "found": false,
+      "matches": []
+    },
+    "203": {
+      "company_name": "Pantex",
+      "found": false,
+      "matches": []
+    },
+    "204": {
+      "company_name": "Elve, Inc",
+      "found": false,
+      "matches": []
+    },
+    "205": {
+      "company_name": "Lifespan Research Institute",
+      "found": false,
+      "matches": []
+    },
+    "206": {
+      "company_name": "LightSource",
+      "found": false,
+      "matches": []
+    },
+    "207": {
+      "company_name": "Trinity Life Sciences",
+      "found": false,
+      "matches": []
+    },
+    "208": {
+      "company_name": "Science Corporation",
+      "found": false,
+      "matches": []
+    },
+    "209": {
+      "company_name": "California State Water Resources Control Board",
+      "found": false,
+      "matches": []
+    },
+    "210": {
+      "company_name": "Central Intelligence Agency",
+      "found": false,
+      "matches": []
+    },
+    "300": {
+      "company_name": "Altruist",
+      "found": false,
+      "matches": []
+    },
+    "301": {
+      "company_name": "Lightmatter",
+      "found": false,
+      "matches": []
+    },
+    "400": {
+      "company_name": "Cisco Systems Guard",
+      "found": true,
+      "matches": [
+        {
+          "company_name": "Cisco Systems",
+          "traded_in": "NASDAQ",
+          "headquarters": "USA",
+          "involvement": "Settlement Enterprise|Services to the Settlements|Population Control|Private Security and Surveillance Technology|Specialized Equipment and Services|",
+          "search_term": "Cisco Systems"
+        }
+      ]
+    },
+    "401": {
+      "company_name": "Applied Materials",
+      "found": false,
+      "matches": []
+    },
+    "402": {
+      "company_name": "Procter & Gamble",
+      "found": false,
+      "matches": []
+    }
+  }
+}

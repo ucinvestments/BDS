@@ -1,0 +1,43 @@
+services:
+  # Database schema creation service
+  bds-schema-creator:
+    build: .
+    container_name: bds-schema-creator
+    environment:
+      - PYTHONUNBUFFERED=1
+    env_file:
+      - .env
+    command: ["python", "database_schema.py"]
+    networks:
+      - unifier-network
+    restart: "no"
+
+  # Data unification service (depends on schema being created)
+  bds-unifier:
+    build: .
+    container_name: bds-data-unifier
+    volumes:
+      # Mount output directory
+      - ./output:/app/output
+      # Mount parent Sources directory to access all data sources
+      - ../:/app/Sources:ro
+      # Mount scripts for development (optional, remove in production)
+      - ./unify_data.py:/app/unify_data.py:ro
+      - ./schema_validator.py:/app/schema_validator.py:ro
+      - ./unified_schema.json:/app/unified_schema.json:ro
+      - ./database_schema.py:/app/database_schema.py:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OUTPUT_DIR=/app/output
+      - LOG_LEVEL=INFO
+    env_file:
+      - .env
+    depends_on:
+      - bds-schema-creator
+    networks:
+      - unifier-network
+    restart: "no"
+
+networks:
+  unifier-network:
+    driver: bridge

@@ -1,0 +1,17 @@
+services:
+  boycott-scraper-test:
+    build: .
+    container_name: boycott-thewitness-scraper-test
+    volumes:
+      - ./output:/output
+    environment:
+      - OUTPUT_DIR=/output
+      - FETCH_DETAILS=true
+      - BATCH_SIZE=5  # Smaller batch for testing
+    networks:
+      - scraper-network
+    restart: "no"
+
+networks:
+  scraper-network:
+    driver: bridge

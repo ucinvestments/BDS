@@ -1,0 +1,18 @@
+services:
+  who-profits-search:
+    build: .
+    container_name: who-profits-search
+    volumes:
+      - ./output:/app/output
+      - ./main.py:/app/main.py:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OUTPUT_DIR=/app/output
+      - LOG_LEVEL=INFO
+    networks:
+      - search-network
+    restart: "no"
+
+networks:
+  search-network:
+    driver: bridge

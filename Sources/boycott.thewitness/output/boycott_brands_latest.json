@@ -1,0 +1,2570 @@
+{
+  "total_brands": 366,
+  "total_pages": 6,
+  "brands": [
+    {
+      "name": "7up",
+      "image_url": "https://assets.turbologo.com/blog/en/2020/02/19084627/7up-cover.jpg",
+      "target_link": "/target/7up",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883476447Z"
+    },
+    {
+      "name": "Acqua Panna",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/acqua-panna-logo-round.png",
+      "target_link": "/target/acquapanna",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883515181Z"
+    },
+    {
+      "name": "Actimel",
+      "image_url": "https://brandemia.org/contenido/subidas/2014/03/actimel_logo_principal1.jpg",
+      "target_link": "/target/actimel",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.88352514Z"
+    },
+    {
+      "name": "Activia",
+      "image_url": "https://seeklogo.com/images/D/danone-activia-logo-4976BD71EE-seeklogo.com.png",
+      "target_link": "/target/activia",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883533606Z"
+    },
+    {
+      "name": "Adidas",
+      "image_url": "https://cdn.britannica.com/94/193794-050-0FB7060D/Adidas-logo.jpg",
+      "target_link": "/target/adidas",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883541091Z"
+    },
+    {
+      "name": "Aerin",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-1_33.png?itok=0-2RSCtz",
+      "target_link": "/target/aerin",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.88356681Z"
+    },
+    {
+      "name": "Aero",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/asset-library/publishingimages/brands/chocolate-confectionery/aero-logo-round.png",
+      "target_link": "/target/aero",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883574054Z"
+    },
+    {
+      "name": "Aesop",
+      "image_url": "https://brandlogos.net/wp-content/uploads/2022/05/aesop-logo_brandlogos.net_pedrx.png",
+      "target_link": "/target/aesop",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883581308Z"
+    },
+    {
+      "name": "Agoda",
+      "image_url": "https://logowik.com/content/uploads/images/agoda7659.jpg",
+      "target_link": "/target/agoda",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883588522Z"
+    },
+    {
+      "name": "Ahava",
+      "image_url": "https://www.luxurylabcosmetics.it/wp-content/uploads/2019/06/logos-HP_ahava.jpg",
+      "target_link": "/target/ahava",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883596286Z"
+    },
+    {
+      "name": "Airbnb",
+      "image_url": "https://s.yimg.com/uu/api/res/1.2/Bz8iDlw16Zf6PVc.y33xdg--~B/aD0zOTA7dz02MTA7YXBwaWQ9eXRhY2h5b24-/http://globalfinance.zenfs.com/Finance/US_AHTTP_ENTREPRENEUR_H_NEW_LIVE/1405612741-airbnb-why-new-logo_original.jpg",
+      "target_link": "/target/airbnb",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.88360363Z"
+    },
+    {
+      "name": "Airwaves",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/airwaves%20%282%29.png",
+      "target_link": "/target/airwaves",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883615734Z"
+    },
+    {
+      "name": "Aldi Nord (not UK)",
+      "image_url": "https://logowik.com/content/uploads/images/aldi8490.jpg",
+      "target_link": "/target/aldinord",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883623088Z"
+    },
+    {
+      "name": "Alpro",
+      "image_url": "https://d3hjzzsa8cr26l.cloudfront.net/7455de6e-2600-11e8-93fa-4bf4c46cb1e4.jpg?zcw=786\u0026zch=786\u0026zct=0\u0026zcl=83",
+      "target_link": "/target/alpro",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883632265Z"
+    },
+    {
+      "name": "Always",
+      "image_url": "https://images.ctfassets.net/aqfuj2z95p5p/6wCF01XuXegMHkkBZ3hao3/7943e9f78c73c7cc28d8b9bccf329fce/Always_EN_UK_Homepage_Always-logo-OG.jpg",
+      "target_link": "/target/always",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883640932Z"
+    },
+    {
+      "name": "Amazon",
+      "image_url": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning.jpg",
+      "target_link": "/target/amazon",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883649398Z"
+    },
+    {
+      "name": "Ambipur",
+      "image_url": "https://logonoid.com/images/ambi-pur-logo.jpg",
+      "target_link": "/target/ambipur",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883656652Z"
+    },
+    {
+      "name": "American Eagle",
+      "image_url": "https://logowik.com/content/uploads/images/american-eagle-outfitters7114.jpg",
+      "target_link": "/target/americaneagle",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883665579Z"
+    },
+    {
+      "name": "Amika",
+      "image_url": "https://www.loveamika.co.uk/c-images/fb-image.png",
+      "target_link": "/target/amika",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883678333Z"
+    },
+    {
+      "name": "Appletiser",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/appletiser-logo.png",
+      "target_link": "/target/appletiser",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883685808Z"
+    },
+    {
+      "name": "Aptamil",
+      "image_url": "https://m.media-amazon.com/images/S/gladiator-image-upload-prod/1/A1F83G8C2ARO7P/3bab32d28f3163d50886787666d98b3b.png",
+      "target_link": "/target/aptamil",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883694314Z"
+    },
+    {
+      "name": "Aquafina",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072017/untitled-4_4.png",
+      "target_link": "/target/aquafina",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883704053Z"
+    },
+    {
+      "name": "Aquarius",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/aquarius-logo.png",
+      "target_link": "/target/aquarius",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883711497Z"
+    },
+    {
+      "name": "Aramis",
+      "image_url": "https://www.thefragrancecounter.co.uk/user/brands/Aramis-logo.jpg",
+      "target_link": "/target/aramis",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883719272Z"
+    },
+    {
+      "name": "Ariel",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/2/29/Ariel_logo_2006.png",
+      "target_link": "/target/ariel",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883726385Z"
+    },
+    {
+      "name": "Arwa",
+      "image_url": "https://static1.squarespace.com/static/5864860159cc68953ac8600c/t/5f453f211583ee7c9ab872a2/1598373670070/arwa_cover_small_social.jpg?format=1500w",
+      "target_link": "/target/arwa",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883733319Z"
+    },
+    {
+      "name": "Aussie",
+      "image_url": "https://images.ctfassets.net/zyvr84rwvj68/34O3XfqFR60G6mcU6mooyq/d599d420ba23eedf3751029bce22ff43/Aussie.jpg",
+      "target_link": "/target/aussie",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883740252Z"
+    },
+    {
+      "name": "Aviva",
+      "image_url": "https://i0.wp.com/fourteenten.com/wp-content/uploads/2017/03/AVIVA-Client-Logo-Image.png",
+      "target_link": "/target/aviva",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883747215Z"
+    },
+    {
+      "name": "AXA",
+      "image_url": "https://www.tabletalkmedia.co.uk/wp-content/uploads/2015/03/axa.png",
+      "target_link": "/target/axa",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883754309Z"
+    },
+    {
+      "name": "Axe",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/b953900d039e64d54e396b500343f64065fe3f62-280x280.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/axe",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883761282Z"
+    },
+    {
+      "name": "BAE Systems",
+      "image_url": "https://rocketandcloud.co.uk/wp-content/uploads/2022/02/bae-logo-6-1-550x360.png",
+      "target_link": "/target/bae",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883768336Z"
+    },
+    {
+      "name": "Bally",
+      "image_url": "https://1000logos.net/wp-content/uploads/2021/04/Bally-Logo-old.png",
+      "target_link": "/target/bally",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.88378131Z"
+    },
+    {
+      "name": "Bank of America",
+      "image_url": "https://icons.veryicon.com/png/o/business/bank-logo-collection/bank-of-america-logo.png",
+      "target_link": "/target/bankofamerica",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883790248Z"
+    },
+    {
+      "name": "Bank of Montreal",
+      "image_url": "https://bayviewleasidebia.com/wp-content/uploads/2022/08/BMO.png",
+      "target_link": "/target/bankofmontreal",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883798133Z"
+    },
+    {
+      "name": "Barbican",
+      "image_url": "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/9/AmazonStores/A21TJRUUN4KGV/e6a4dc4396b5e27b1abc99ce5dacb555.w600.h600.png",
+      "target_link": "/target/barbican",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883818171Z"
+    },
+    {
+      "name": "Barclays",
+      "image_url": "https://www.openbanking.org.uk/wp-content/uploads/2021/04/Barclays-Bank-logo.png",
+      "target_link": "/target/barclays",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883825505Z"
+    },
+    {
+      "name": "Bath \u0026 Body Works",
+      "image_url": "https://i.pinimg.com/originals/b1/df/c2/b1dfc2670f0ba2913a3aaca3b12630ae.jpg",
+      "target_link": "/target/bathbodyworks",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883832909Z"
+    },
+    {
+      "name": "Bayer Pharmaceuticals",
+      "image_url": "https://download.logo.wine/logo/Bayer/Bayer-Logo.wine.png",
+      "target_link": "/target/bayer",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883845714Z"
+    },
+    {
+      "name": "Belvita",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/33Uz4L8o8OoYMYU2qw1BNM/96b6ee1125e56d490db78f3f6dfc245d/belVita.png?fm=webp\u0026q=80",
+      "target_link": "/target/belvita",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883853168Z"
+    },
+    {
+      "name": "Ben \u0026 Jerry's",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/bdfd6b3653902d668fa8fa5c430ab63be1676271-280x280.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/benandjerrys",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883860161Z"
+    },
+    {
+      "name": "Ben's Originals",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2023-07/FINAL%20Bens%20Original%20Orange_RBG_1080x1080.jpeg",
+      "target_link": "/target/bensoriginals",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883867395Z"
+    },
+    {
+      "name": "Benefit Cosmetics",
+      "image_url": "https://i.pinimg.com/originals/65/91/ac/6591ace8410edaa621889844694846ad.png",
+      "target_link": "/target/benefitcosmetics",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883876382Z"
+    },
+    {
+      "name": "Berskha",
+      "image_url": "https://www.gran-turismo.com/gtsport/decal/5116669801193833472_1.png",
+      "target_link": "/target/bershka",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883886301Z"
+    },
+    {
+      "name": "BIOTHERM",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/0889/brand.gif",
+      "target_link": "/target/biotherm",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883893405Z"
+    },
+    {
+      "name": "BNP Paribas",
+      "image_url": "https://www.fintechfutures.com/files/2017/04/BNP-Paribas.png",
+      "target_link": "/target/bnpparibas",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883903554Z"
+    },
+    {
+      "name": "BNY Mellon",
+      "image_url": "https://download.logo.wine/logo/The_Bank_of_New_York_Mellon/The_Bank_of_New_York_Mellon-Logo.wine.png",
+      "target_link": "/target/bnymellon",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883910939Z"
+    },
+    {
+      "name": "Bobbi Brown",
+      "image_url": "https://yt3.googleusercontent.com/ytc/APkrFKYxzT0Ta2tKaKQmlN707g61WXokGqJK1oaGZHFmVw=s900-c-k-c0x00ffffff-no-rj",
+      "target_link": "/target/bobbibrown",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883917992Z"
+    },
+    {
+      "name": "Body Armor",
+      "image_url": "https://toppng.com/uploads/preview/body-armor-logo-bodyarmor-sports-drink-logo-115629020450ktd7fx7vm.png",
+      "target_link": "/target/bodyarmor",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883925486Z"
+    },
+    {
+      "name": "Boeing",
+      "image_url": "https://marvel-b1-cdn.bc0a.com/f00000000163918/www.care.org/wp-content/uploads/2021/10/Boeing.png",
+      "target_link": "/target/boeing",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883935205Z"
+    },
+    {
+      "name": "Bold",
+      "image_url": "https://images.ctfassets.net/zyvr84rwvj68/6LLHcCt51Sc0m0s4SigqAE/dd76765a1e15c755772c625f9c171fe0/Bold-2in1.jpg",
+      "target_link": "/target/bold",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883942279Z"
+    },
+    {
+      "name": "Bomaja",
+      "image_url": "https://m.media-amazon.com/images/I/91XMctP5PKL.jpg",
+      "target_link": "/target/bomaja",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883949242Z"
+    },
+    {
+      "name": "Bon Aqua",
+      "image_url": "https://www.coca-colahellenic.com/content/dam/cch/us/images/our-24-7-portfolio/brand-image/bonaqua-logo-300x300-1.png",
+      "target_link": "/target/bonaqua",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883956476Z"
+    },
+    {
+      "name": "Booking.com",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/0d/be/ee0dbe86-9a9d-d313-968e-b274af9c5ed8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/460x0w.webp",
+      "target_link": "/target/booking",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883970723Z"
+    },
+    {
+      "name": "Bounty",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/Mars%20Wrigley%20product%20logos%20web%20Bounty%20Large_0.png?itok=sn1ZIgbl",
+      "target_link": "/target/bounty",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883977857Z"
+    },
+    {
+      "name": "Bounty Paper Towels",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Bounty_logo.png",
+      "target_link": "/target/bountypapertowels",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.88398493Z"
+    },
+    {
+      "name": "BP (British Petroleum)",
+      "image_url": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+      "target_link": "/target/bp",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883991863Z"
+    },
+    {
+      "name": "Braun",
+      "image_url": "https://images.easyfundraising.org.uk/retailer/cropped/logo-braun-household-uk-1685708000.jpg",
+      "target_link": "/target/braun",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.883998877Z"
+    },
+    {
+      "name": "Bulgari / Bvlgari",
+      "image_url": "https://i.pinimg.com/474x/7f/c8/da/7fc8da6228e191ea00825ce5f374e565.jpg",
+      "target_link": "/target/bulgari",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884007333Z"
+    },
+    {
+      "name": "Burger King",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burger_King_logo_%281999%29.svg/512px-Burger_King_logo_%281999%29.svg.png",
+      "target_link": "/target/burgerking",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884014346Z"
+    },
+    {
+      "name": "Buxton",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/buxton-logo-round.png",
+      "target_link": "/target/buxton",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.88402118Z"
+    },
+    {
+      "name": "Cadbury",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/7pLb9yX7cZQm6558txcicr/69a8127712dd0c432ee7c934104248ba/Cadbury.png?fm=webp\u0026q=80",
+      "target_link": "/target/cadbury",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884028123Z"
+    },
+    {
+      "name": "Capital One",
+      "image_url": "https://www.capitalone.co.uk/cloud_assets/png/capital-one-logo.png",
+      "target_link": "/target/capitalone",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884041228Z"
+    },
+    {
+      "name": "Caribou Coffee",
+      "image_url": "https://seeklogo.com/images/C/caribou-coffee-logo-77816BAC85-seeklogo.com.png",
+      "target_link": "/target/cariboucoffee",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884049133Z"
+    },
+    {
+      "name": "Carmel Agrexco",
+      "image_url": "https://image.pitchbook.com/bFcn5EDrs27XHGn26QD5g2BNSKX1539722675938_200x200",
+      "target_link": "/target/carmelagrexco",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884056527Z"
+    },
+    {
+      "name": "Carnation",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/asset-library/publishingimages/brands/dairy/carnation-logo-round.png",
+      "target_link": "/target/carnation",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884063581Z"
+    },
+    {
+      "name": "Carrefour",
+      "image_url": "https://logowik.com/content/uploads/images/210_carrefour.jpg",
+      "target_link": "/target/carrefour",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884070684Z"
+    },
+    {
+      "name": "Carte D'Or Ice Creams",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/857631.jpg",
+      "target_link": "/target/cartedor",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884077688Z"
+    },
+    {
+      "name": "Caterpillar",
+      "image_url": "https://1000logos.net/wp-content/uploads/2016/11/Colors-of-the-caterpillar-logo.jpg",
+      "target_link": "/target/caterpillar",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884091925Z"
+    },
+    {
+      "name": "Catsan",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/catsan.png",
+      "target_link": "/target/catsan",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884134136Z"
+    },
+    {
+      "name": "Celebrations",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/Mars%20Wrigley%20product%20logos%20web%20Celebrations%20Small.png?itok=pkIvvev0",
+      "target_link": "/target/celebrations",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884150126Z"
+    },
+    {
+      "name": "Celine",
+      "image_url": "https://fashionista.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU4MTczNTkyNjAzODYyMzEz/hedi-slimane-celine-new-logo.jpg",
+      "target_link": "/target/celine",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884168341Z"
+    },
+    {
+      "name": "Cerave",
+      "image_url": "https://skinmiles.com/wp-content/uploads/2023/10/CeraVe-logo-brand-page-300x300.jpg",
+      "target_link": "/target/cerave",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884185564Z"
+    },
+    {
+      "name": "Chanel",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102013/chanel_black.png",
+      "target_link": "/target/chanel",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884200222Z"
+    },
+    {
+      "name": "Charmin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Charmin.png",
+      "target_link": "/target/charmin",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884222104Z"
+    },
+    {
+      "name": "Cheapflights",
+      "image_url": "https://www.cheapflights.co.uk/news/wp-content/uploads/sites/138/2020/03/default-post-thumbnail-1640x1312.png",
+      "target_link": "/target/cheapflights",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884236922Z"
+    },
+    {
+      "name": "Cheerios",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/cereals-cheerios-logo.png",
+      "target_link": "/target/cheerios",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884252081Z"
+    },
+    {
+      "name": "Cheetos",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0010/0838/brand.gif",
+      "target_link": "/target/cheetos",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884267341Z"
+    },
+    {
+      "name": "Cif",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/5b3550003de32697bef8264cca1e4e222dab891e-1920x1080.jpg?rect=420,0,1080,1080\u0026w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/cif",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884294994Z"
+    },
+    {
+      "name": "Clear Blue",
+      "image_url": "https://i.pinimg.com/280x280_RS/e5/76/34/e5763410888540ccff2a9f8d4c18dacc.jpg",
+      "target_link": "/target/clearblue",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884304542Z"
+    },
+    {
+      "name": "Clinique",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0001/5427/brand.gif?Gt6PPdgJuur6AEtnU2Im_sunXs3XuZbo\u0026itok=o_eLBdUe",
+      "target_link": "/target/clinique",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884319881Z"
+    },
+    {
+      "name": "Coca-Cola",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/coca-cola-logo.png",
+      "target_link": "/target/cocacola",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884327486Z"
+    },
+    {
+      "name": "Coffee Mate",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/coffee-mate-logo-round_7.png",
+      "target_link": "/target/coffeemate",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884335621Z"
+    },
+    {
+      "name": "Comfort",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/a8c2ae9b3e2c4dae8c7223a81b8dd49f98cfd266-1080x1080.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/comfort",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884342775Z"
+    },
+    {
+      "name": "Conservative party",
+      "image_url": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ik2bctvydwmkecjghspk",
+      "target_link": "/target/conservative",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884349929Z"
+    },
+    {
+      "name": "Cornetto Ice Creams",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/911b7828e3d316d99652c1e2792bea6e70fbf5df-1080x1080.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/cornetto",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884377862Z"
+    },
+    {
+      "name": "Costa Coffee",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/costa-logo.png",
+      "target_link": "/target/costacoffee",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884393692Z"
+    },
+    {
+      "name": "Coty",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/10/Coty-Logo-2016.png",
+      "target_link": "/target/coty",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884401067Z"
+    },
+    {
+      "name": "Cow \u0026 Gate",
+      "image_url": "https://robclarke.com/wp-content/uploads/2018/10/cow_4.jpg",
+      "target_link": "/target/cowgate",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884408491Z"
+    },
+    {
+      "name": "Crest Toothpaste",
+      "image_url": "https://s3.amazonaws.com/jebbit-assets/images/AJspnLDj/business-images/dmzXkjQTyiHLkW58IBqQ_Crest_LOGO_alt_1.png",
+      "target_link": "/target/crest",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884415694Z"
+    },
+    {
+      "name": "Curver",
+      "image_url": "https://adlai-partners.com/wp-content/uploads/curver_logo.jpg",
+      "target_link": "/target/curver",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884422758Z"
+    },
+    {
+      "name": "Daim",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/4SX3RXqioh4AR6q5u8ljaG/659b69accb0e9bf560edf5b752943b61/daim_logo_rgb_no202002.png?fm=webp\u0026q=80",
+      "target_link": "/target/daim",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884429781Z"
+    },
+    {
+      "name": "Dairy Milk",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/3clKilc2KlCbFteKgQ92FW/7f719d79e655fd319171cfebcbe08b40/CDM.png?fm=webp\u0026q=80",
+      "target_link": "/target/dairymilk",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884436665Z"
+    },
+    {
+      "name": "Danone",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/03/Danone-Logo-2005.jpg",
+      "target_link": "/target/danone",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884444379Z"
+    },
+    {
+      "name": "Dasani Water",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/dasani-logo.png",
+      "target_link": "/target/dasani",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884451333Z"
+    },
+    {
+      "name": "Delilah",
+      "image_url": "https://pbs.twimg.com/profile_images/2718900474/0e9f77f92dcce4e473c0c379188ebdda_400x400.png",
+      "target_link": "/target/delilah",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884464017Z"
+    },
+    {
+      "name": "Dell",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/1200px-Dell_logo_2016.svg.png",
+      "target_link": "/target/dell",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884471521Z"
+    },
+    {
+      "name": "Desert Diamond",
+      "image_url": "https://www.islam21c.com/wp-content/uploads/desert.png",
+      "target_link": "/target/desertdiamond",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884492341Z"
+    },
+    {
+      "name": "Diesel Frangrances",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/4528/brand.gif",
+      "target_link": "/target/diesel",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884506398Z"
+    },
+    {
+      "name": "Diet Coke",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/dietCoke_transparency.png",
+      "target_link": "/target/dietcoke",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884514063Z"
+    },
+    {
+      "name": "DKNY",
+      "image_url": "https://cdn.freebiesupply.com/logos/thumbs/2x/dkny-2-logo.png",
+      "target_link": "/target/dkny",
+      "page_number": 1,
+      "scraped_at": "2025-09-10T00:10:25.884521006Z"
+    },
+    {
+      "name": "Dine",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/dine.png",
+      "target_link": "/target/dine",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.867977826Z"
+    },
+    {
+      "name": "Dior / Christian Dior",
+      "image_url": "https://dynl.mktgcdn.com/p/KfI5g-nDtylqhtl1RdhWzG0DMJ7sGl0lGfr3EARlPtQ/500x500.jpg",
+      "target_link": "/target/dior",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.867994548Z"
+    },
+    {
+      "name": "Disney",
+      "image_url": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/02/Disney-Plus-logo-920x518.jpg",
+      "target_link": "/target/disney",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86800587Z"
+    },
+    {
+      "name": "Dogadan",
+      "image_url": "https://www.tokfood.com/image/cache/catalog/brands/logo_dogadan_1-256x256.png",
+      "target_link": "/target/dogadan",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868014967Z"
+    },
+    {
+      "name": "Dolce Gusto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nescafe_dolcegusto_logo.png",
+      "target_link": "/target/dolcegusto",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868029104Z"
+    },
+    {
+      "name": "Dolmio",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-04/Logos_Dolmio.png",
+      "target_link": "/target/dolmio",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868043131Z"
+    },
+    {
+      "name": "Domestos",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/9c1c07e7e468bc88ebf369dce27e46fb8134b330-1080x1080.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/domestos",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868050645Z"
+    },
+    {
+      "name": "Doritos",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/5529/brand.gif",
+      "target_link": "/target/doritos",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868057589Z"
+    },
+    {
+      "name": "Dove",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/db75ae243befa00aa3cdb2eaf546b0c3aa2ab5d2-1080x1080.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/dove",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868064672Z"
+    },
+    {
+      "name": "Dr Pepper",
+      "image_url": "https://www.coca-cola.com/content/dam/onexp/gb/en/logos/v2/uk_dr_pepper_logo_286x180.png",
+      "target_link": "/target/drpepper",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868073209Z"
+    },
+    {
+      "name": "Eden Springs",
+      "image_url": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1469615776/asjzj7thdsrcofxhgz3l.png",
+      "target_link": "/target/edensprings",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868080452Z"
+    },
+    {
+      "name": "Elbit Systems",
+      "image_url": "https://static.stocktitan.net/company-logo/ESLT-lg.png",
+      "target_link": "/target/elbit",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868087456Z"
+    },
+    {
+      "name": "Enjoy Life",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/3KCDiLTzI2Hl9SoBv8ZTwo/013c8d726daa2923c6c198accee095c2/EnjoyLife.png?fm=webp\u0026q=80",
+      "target_link": "/target/enjoylife",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868094509Z"
+    },
+    {
+      "name": "Espresso House",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62ab2d73fb56ea653d2d8ca1/5da2adb4-ad25-4789-be03-dcf952ed58e5/Espresso+House+Compressed.jpg",
+      "target_link": "/target/espressohouse",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868101663Z"
+    },
+    {
+      "name": "Estee Lauder",
+      "image_url": "https://logowik.com/content/uploads/images/550_estee_lauder.jpg",
+      "target_link": "/target/esteelauder",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86811077Z"
+    },
+    {
+      "name": "Evian",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/1/17/Evian_logo_live_young_white-X2.jpg/revision/latest?cb=20170312131139",
+      "target_link": "/target/evian",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868125689Z"
+    },
+    {
+      "name": "Express VPN",
+      "image_url": "https://media.wired.co.uk/photos/606d9e95fd9831b13e447120/4:3/w_2664,h_1998,c_limit/wired-express-vpn.jpg",
+      "target_link": "/target/expressvpn",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868140617Z"
+    },
+    {
+      "name": "Facebook",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+      "target_link": "/target/facebook",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86815774Z"
+    },
+    {
+      "name": "Fairlife",
+      "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/870299464937951233/pu/img/95vVRzO2de_rr3OJ.jpg",
+      "target_link": "/target/fairlife",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868172408Z"
+    },
+    {
+      "name": "Fairy",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/5/59/Fairy_logo.png",
+      "target_link": "/target/fairy",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868188719Z"
+    },
+    {
+      "name": "Fanta",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/fanta-logo.png",
+      "target_link": "/target/fanta",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868197727Z"
+    },
+    {
+      "name": "Febreze",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Febreze_Logo.svg/462px-Febreze_Logo.svg.png",
+      "target_link": "/target/febreze",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868205121Z"
+    },
+    {
+      "name": "Felix",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/felix-logo-square-2023.png",
+      "target_link": "/target/felix",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868212204Z"
+    },
+    {
+      "name": "Fendi",
+      "image_url": "https://i.pinimg.com/originals/c4/6a/bc/c46abcf81b48d73f67a371033f2a8699.png",
+      "target_link": "/target/fendi",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86822557Z"
+    },
+    {
+      "name": "Fenty Beauty by Rihanna",
+      "image_url": "https://seeklogo.com/images/F/fenty-logo-C76A749839-seeklogo.com.png",
+      "target_link": "/target/fenty",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868232854Z"
+    },
+    {
+      "name": "Ferrero",
+      "image_url": "https://logowik.com/content/uploads/images/ferrero2322.logowik.com.webp",
+      "target_link": "/target/ferrero",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868240308Z"
+    },
+    {
+      "name": "Ferrero Rocher",
+      "image_url": "https://logowik.com/content/uploads/images/ferrero-rocher.jpg",
+      "target_link": "/target/ferrerorocher",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868247362Z"
+    },
+    {
+      "name": "Fiverr",
+      "image_url": "https://mms.businesswire.com/media/20230510006090/en/827135/22/Fiverr_September_2020_Logo.jpg",
+      "target_link": "/target/fiverr",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868254535Z"
+    },
+    {
+      "name": "Flash",
+      "image_url": "https://www.cleaningsuppliesuk.co.uk/media/solwin/ourbrand/brand/image/f/l/flash_logo.jpg",
+      "target_link": "/target/flash",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868261549Z"
+    },
+    {
+      "name": "Fuzetea",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/6/62/FuzeTea_.PNG/revision/latest?cb=20180709165105",
+      "target_link": "/target/fuzetea",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868268492Z"
+    },
+    {
+      "name": "G4S",
+      "image_url": "https://www.infologue.com/wp-content/uploads/2021/08/G4S-Logo.png",
+      "target_link": "/target/g4s",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868275576Z"
+    },
+    {
+      "name": "Game Fuel",
+      "image_url": "https://media.giphy.com/avatars/MTNDEWGAMEFUEL/igP0vcVwmx8u.png",
+      "target_link": "/target/gamefuel",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868296055Z"
+    },
+    {
+      "name": "Garnier",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/garnier_logo.jpg?Hc_rMssrG43ZcRMFKa6QdUcGRKyr5oP8\u0026itok=TPiNcSQp",
+      "target_link": "/target/garnier",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868303409Z"
+    },
+    {
+      "name": "Gatorade",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/1244/brand.gif",
+      "target_link": "/target/gatorade",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868310873Z"
+    },
+    {
+      "name": "Gillette",
+      "image_url": "https://i.pinimg.com/736x/20/47/b8/2047b8ff614a863dba63d27a54a0a1fb.jpg",
+      "target_link": "/target/gillette",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868341752Z"
+    },
+    {
+      "name": "Giorgio Armani Beauty",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihVZ6h9Are1xzGGeBlltY1uVSlkblolMzowx4AV7hEXFYMawBy7krb_Ut0Tm7w8RfgNw\u0026usqp=CAU",
+      "target_link": "/target/giorgioarmani",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868349627Z"
+    },
+    {
+      "name": "Givenchy",
+      "image_url": "https://i.pinimg.com/originals/3d/a0/35/3da0354353d0d7dc17f95af8ebc3efb8.png",
+      "target_link": "/target/givenchy",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868370167Z"
+    },
+    {
+      "name": "Glaceau Smartwater",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/smartwater-logo.png",
+      "target_link": "/target/glaceuasmartwater",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86837738Z"
+    },
+    {
+      "name": "Google",
+      "image_url": "https://download.logo.wine/logo/Google/Google-Logo.wine.png",
+      "target_link": "/target/google",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868384554Z"
+    },
+    {
+      "name": "Grenade",
+      "image_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/352571597_625285432995900_5637396694872544308_n.jpg?_nc_ohc=LvXxPme7dBAAX8-FBSt\u0026_nc_ht=scontent-lhr6-2.xx\u0026oh=00_AfDI78NvMKaENP4SlkbXzZJMLP6pddNbU3XSNURgxfUonA\u0026oe=65686BAA",
+      "target_link": "/target/grenade",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868404462Z"
+    },
+    {
+      "name": "Hadiklaim",
+      "image_url": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/0beaf8640b1918f29ba3",
+      "target_link": "/target/hadiklaim",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868430292Z"
+    },
+    {
+      "name": "Halls",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/4gZ0Ix9eqDiQ7Nxs1OvIn2/50f19059f1aec31a13bf2e5a39bea2c9/Halls.png?fm=webp\u0026q=80",
+      "target_link": "/target/halls",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868438016Z"
+    },
+    {
+      "name": "Head and Shoulders",
+      "image_url": "https://logowik.com/content/uploads/images/head-shoulders7079.jpg",
+      "target_link": "/target/headandshoulders",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868445932Z"
+    },
+    {
+      "name": "Hellman's",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/8fe76fd805ab71155fd402e9a90e584e36231910-1080x1080.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/hellmans",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868453105Z"
+    },
+    {
+      "name": "Herbal Essences",
+      "image_url": "https://crueltyfree.peta.org/wp-content/uploads/herbal-essences-scaled.jpg",
+      "target_link": "/target/herbalessences",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868460509Z"
+    },
+    {
+      "name": "Hotel Chocolat",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/twix%20%282%29.png?itok=euLB-mXk",
+      "target_link": "/target/hotelchocolat",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868468605Z"
+    },
+    {
+      "name": "HP",
+      "image_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADDCAMAAACxkIT5AAAAe1BMVEX///8AAABhYWFAQED6+vr19fXv7++Xl5f7+/tkZGTs7OzPz8/y8vK/v7/39/esrKyRkZHg4ODm5ubY2Ng4ODh9fX2CgoJNTU2Li4vHx8dwcHAzMzOwsLAaGhp2dnZbW1ssLCyenp4fHx8TExNUVFQjIyNDQ0O5ubmjo6OD7WlqAAAHn0lEQVR4nO2caUPqOhCGTxFEkEU2ERTZxf//C68cyeRtM0kKF+2EM88321A702QyW/vnj6IoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoN0hj3lq25pPnp/7joFP1zVTEIbMsPt7fBlXf0K/Q6Dbhr2VW5L3bqOzefofZPMtABx1HBUdas+pu8KfpNBdHEYf2yCergyzbNu+ru80fZDj5lm8Kx+48OjiuiaH3SqnSmRjh3uzBgV8FRy3c1lyoN61odXv4JaiDLHvqVXfL12a2t3LN4fgqooNscyvWsT5HsUCqx5gKvmjdxFR4XKBMe1gK7yV0kG1vYCo08yI9w6kyKvjiqbJ7vw71WkGgkT13YCVmWCa9HjrjgjgbOFlUj5/XhHfJ4aIozdqebJdWwZdRSDaWYlygtj3r85N5Rv5/I5mhK8kOTgf8ZI4kZwKjAvSTudO3poSGYwu+gNTA07k62KaXZ/pgxGjB+aif7DB+qEyYy5hzUpzpJ4dUmAC80YcBE3ZAhLX3/wlkxIrwYgfUL1FBlj1WJ9K5PLyyEsAe371MB6t0vOZnVoAxjHDzyeV4r0ymM+FXAq7m+wtVkM5q8HiA4Cf3L9bBa3VinYMnEMB88vRiHaSxN/Q8N186nxwhBXfR5wR34kNK8ez/11JoeG4d88kfd4ZijuUrLLAnka0dIT+h0nSk+qYLY6zj/9B4bOXHNd1LHmmMaMN94UfIoceFi0f8P8mHDv4S29B4XtItwptHBaFVjEqYBsaZ7Fv/2jd9ZXgvOZILA7/yLTTupOD9dW/52vh2vXHZX9WDA8sotHJ8VVSPpTPQuEiK4ORbTa53wz+ALzsElq53fwJ+RuMgy/JwAmfGaQ/Zh2dLtXiiJbbvYgXHzLiNFW6wH//ldQnjjI8tOXLyOYCcn9xkjsEkJzuJAYI5JtlF8MVCMHfJh+Lakqyx65FjCOEmbaJ3vyDLhfgyZGjpjHeMO4VRHVQjqSBbg3E2CSk3nzTz6AAsHVkMbnnAtN+ZY7D0ISJFz1sWa14FG3hq9Ci5MNIuD6pCLeDykISM7LUV4skS4nZujuHyMEsfqpHkZ6CwEF2FXOpq2fA64PLJMJnJ0sHyIIsIlhOTkNufF+Yy+M7b3HSmRwl1M2pLsjsAGRYsVOeSkLBbiCKeT6a+C1getAvC8qBFhbYvF45JDRk8NUSYzn1GBGZ52BYVuHq+WC+1W41vssLpbByBFRyj5WEPkR+F/mDeBw3G2BWyZnXA9V2AtSdLB1kW+i32XeQzE1I3Rz5whviQni/IxiwPWlO4AxaMjdTsMltPR0fA7J0om3m84DvT6jj4Ly618Mj23nKOACQEmTDS+gEYFRQui6l6SbA6gPP0KEE2xk+mKBL9y2KxPiUdwLolRwBDQbMUIBqmugv6AMWmVqk64OwByEHOX3h5kPHDJIHT1CrVHjD7AmYJzKNcQEaF1Ga79mg2YRnBKdZL3RfWrg5gG6foPxxG2nolJl2dBJXUhn7GT+T8ZMiKMH4yFapwxbtNrVJrTW688AFnzaPEKpGJjWB50BPH3LFbyJUaL7hxIzwtzk9mwkjyF3IZAreQKzVudFsPuP7kcBhJKfVPuDATkErNHzh5JK4/mWtLgiwLK6S76YrNIzmODDgCtE7Cy4PMKqqP6WmQm09c52+UdQRgx2OWB6XU0eYxTa1SQ2envgCOwAPnJ7thJM2M3FwvdOsUZpgwCnUmLmHGte/bLAubUuea/QR/JyLnzqEjwCTMuHILV2TkmloF1xvzvgz3vQvMJxtLZ4vrNFuw3s69ESO57pzzks7PJ88++3/5RA+Ia++R3H+AfShc3wV2XNPyiDSVMA2PG8l9KBg+R/LJZOliUTDT6Sa7HwkmLpjuYD45Mq+54pXopQBPDR0Bkx1Dc24s3SpyQaaWvYj8pGoo/D8/nxy+HvAZ/knlNE5b/BZyxxQLcssj/Akg9oUX8Y3rpyAAd3Bz75gHNRvIR/H3QH3ENnVIdg6+OblD01bNQHHQnT1GwsHyaO9qOZZ7V/4jYlMHlthHj7wC+d58KCB7Y/zG9yILC6YJfG8+FBBvDY6sz9ABl2UJIzdzkMP3DgMD/KrcW+CrimQ6l/Lv9cParnssYAGpOXWHUh/AOsJVI4NILbW69Mo901wYyX40oshGbp+yQ8nVAEXDch9EEB4s5Sm310MY6XsfLkcie4KByQU7YBhZ5i3wmve/yaReYoPkyi0BEvoIxokSn3mAMHJdQgdJOIh5oi/449Qu8eEwqZXmIDHn9zw/OUkVxCRbcFkWL0ntikhwOWBG5VZnwZF24Kto8GRjfvI+gbSJn97OKxiMivjJU8EV1lKUeAs8so3Kzx9G8Ux0yCeH/eRkouUQDc5vxmqkf71k2VL6hz/K0nVThZhP9mtge/BfNDV6jlUAS7/2quA5dWOYp523/dhk4Yuu5knviCwD1ELcT54n+B3dErTt63lwlPWTX25vDhDd7zZO7Npz7WWtm9oXdM+kc5gH/eT54VZ2wzAjeM7gPIxb/YRjo//BdLerzScv69nghk2AoiiKoiiKoiiKoiiKoiiKoiiKoiiKoiiKoiiKoiiKovyb/AdZ9lL6MpgBeQAAAABJRU5ErkJggg==",
+      "target_link": "/target/hp",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868476109Z"
+    },
+    {
+      "name": "HSBC",
+      "image_url": "https://www.hsbc.co.uk/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/social/logo/Square-1200x1200px.jpg",
+      "target_link": "/target/hsbc",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868499193Z"
+    },
+    {
+      "name": "Hubba Bubba",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/hubbabubba.png?itok=HpjwjqYt",
+      "target_link": "/target/hubbabubba",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868506638Z"
+    },
+    {
+      "name": "Hublot",
+      "image_url": "https://seeklogo.com/images/H/Hublot-logo-A48632AE5F-seeklogo.com.png",
+      "target_link": "/target/hublot",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868513882Z"
+    },
+    {
+      "name": "Hyundai",
+      "image_url": "https://pbs.twimg.com/profile_images/821433960639008768/_M06NaeP_400x400.jpg",
+      "target_link": "/target/hyundai",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868520865Z"
+    },
+    {
+      "name": "IAMS",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/iams.png",
+      "target_link": "/target/iams",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868527968Z"
+    },
+    {
+      "name": "Il Makiage",
+      "image_url": "https://mms.businesswire.com/media/20210812005438/en/898712/22/IL_MAKIAGE_LOGO-01_thumbnail.jpg",
+      "target_link": "/target/ilmakiage",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868534942Z"
+    },
+    {
+      "name": "Indigo Books",
+      "image_url": "https://scarboroughtowncentre.com/wp-content/uploads/2021/11/9b0e5b28fdeb73b86ea47ceca4e1ac79c75c51a5.png",
+      "target_link": "/target/indigobooks",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868542396Z"
+    },
+    {
+      "name": "Innocent Smoothies",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/innocent-logo.png",
+      "target_link": "/target/innocent",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86854942Z"
+    },
+    {
+      "name": "Instagram",
+      "image_url": "https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg",
+      "target_link": "/target/instagram",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86855995Z"
+    },
+    {
+      "name": "Intel",
+      "image_url": "https://logos-world.net/wp-content/uploads/2021/09/Intel-Logo.png",
+      "target_link": "/target/intel",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868567214Z"
+    },
+    {
+      "name": "IT Cosmetics",
+      "image_url": "https://crueltyfree.peta.org/wp-content/uploads/it-cosmetics-logo.jpg",
+      "target_link": "/target/itcosmetics",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868574477Z"
+    },
+    {
+      "name": "Jaguar",
+      "image_url": "https://1000logos.net/wp-content/uploads/2019/12/Jaguar-Logo.png",
+      "target_link": "/target/jaguar",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868581641Z"
+    },
+    {
+      "name": "Jo Malone",
+      "image_url": "https://image.isu.pub/170203184809-3d22cddc0d5e27dd1d0ea2ce32b57baf/jpg/page_1.jpg",
+      "target_link": "/target/jomalone",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868589626Z"
+    },
+    {
+      "name": "Juicy Fruit",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/Mars%20Wrigley%20product%20logos%20web%20Juicy%20Fruit%20Small.png?itok=sksxiVyw",
+      "target_link": "/target/juicyfruit",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.86859658Z"
+    },
+    {
+      "name": "Kayak",
+      "image_url": "https://www.kayak.co.uk/rimg/dimg/dynamic/376-1663588218-2020-2021_kayak_logo_k_square_kayak_77832.png",
+      "target_link": "/target/kayak",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868603443Z"
+    },
+    {
+      "name": "Kenzo",
+      "image_url": "https://logowik.com/content/uploads/images/kenzo8232.jpg",
+      "target_link": "/target/kenzo",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868609454Z"
+    },
+    {
+      "name": "Kerastase",
+      "image_url": "https://static.couponfollow.com/kerastase-ca/logo.png",
+      "target_link": "/target/kerastase",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868615326Z"
+    },
+    {
+      "name": "Keter",
+      "image_url": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1469080356/d4wxa85xv4gueo1nwled.png",
+      "target_link": "/target/keter",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868621037Z"
+    },
+    {
+      "name": "KFC",
+      "image_url": "https://banner2.cleanpng.com/20180601/xyv/kisspng-colonel-sanders-kfc-dallas-crispy-fried-chicken-kfc-5b112003073f25.1634110215278489630297.jpg",
+      "target_link": "/target/kfc",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868626086Z"
+    },
+    {
+      "name": "Kiehl's",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3652/brand.gif",
+      "target_link": "/target/kiehls",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868631847Z"
+    },
+    {
+      "name": "Kilian",
+      "image_url": "https://parisgallery.ae/cdn/shop/collections/Kilian_Paris.webp?v=1678692711\u0026width=2400",
+      "target_link": "/target/kilian",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868637097Z"
+    },
+    {
+      "name": "Kinder",
+      "image_url": "https://logowik.com/content/uploads/images/kinder1963.jpg",
+      "target_link": "/target/kinder",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868654901Z"
+    },
+    {
+      "name": "King Solomon",
+      "image_url": "https://m.media-amazon.com/images/S/abs-image-upload-na/c/AmazonStores/ATVPDKIKX0DER/d56dbd6248ccc3b710a1eb02e2214c79.w428.h420.jpg",
+      "target_link": "/target/kingsolomon",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868660722Z"
+    },
+    {
+      "name": "KitKat",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/kitkat-logo-square-2023.png",
+      "target_link": "/target/kitkat",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868667115Z"
+    },
+    {
+      "name": "Knorr",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/e1b2dfa5598c94587747a2e58c588a8a0eb35580-1080x1080.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/knorr",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868676232Z"
+    },
+    {
+      "name": "Krispy Kreme",
+      "image_url": "https://1000logos.net/wp-content/uploads/2018/02/Krispy-Kreme-Logo.png",
+      "target_link": "/target/krispykreme",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868683726Z"
+    },
+    {
+      "name": "KurKure",
+      "image_url": "https://www.media4growth.com/public/uploads/editor/2019-03-19/1552966376.jpg",
+      "target_link": "/target/kurkure",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868689137Z"
+    },
+    {
+      "name": "Kylie Cosmetics",
+      "image_url": "https://miro.medium.com/v2/resize:fit:1000/1*gSiQUzv3VJq8DVtMiwX93Q.jpeg",
+      "target_link": "/target/kyliecosmetics",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868694146Z"
+    },
+    {
+      "name": "La Mer",
+      "image_url": "https://fontmeme.com/images/Lar-Mer-Logo.jpg",
+      "target_link": "/target/lamer",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868700318Z"
+    },
+    {
+      "name": "La Roche-Posay",
+      "image_url": "https://www.easypara.co.uk/media/easysoft/home/manufacturer/larocheposay-easyparapharmacie.jpg",
+      "target_link": "/target/larocheposay",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868707231Z"
+    },
+    {
+      "name": "Lab Series",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhffPUZi481o-JRJqOPjP0TFaYaiIwqNQmmrSZ4TLbEw\u0026s",
+      "target_link": "/target/labseries",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868712301Z"
+    },
+    {
+      "name": "Labour party",
+      "image_url": "https://ih1.redbubble.net/image.977949166.6470/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+      "target_link": "/target/labour",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868736848Z"
+    },
+    {
+      "name": "Lancome",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/untitled-1_392.png",
+      "target_link": "/target/lancome",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868742028Z"
+    },
+    {
+      "name": "Land Rover (Range Rover)",
+      "image_url": "https://i.pinimg.com/originals/27/2f/cd/272fcd3d1ac73529e35c8d9d420005fc.png",
+      "target_link": "/target/landrover",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868747278Z"
+    },
+    {
+      "name": "Lavazza",
+      "image_url": "https://logowik.com/content/uploads/images/lavazza9192.logowik.com.webp",
+      "target_link": "/target/lavazza",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868752408Z"
+    },
+    {
+      "name": "Lay's",
+      "image_url": "https://i.pinimg.com/originals/08/15/b3/0815b39bbb315d4aaf50b260de14a653.jpg",
+      "target_link": "/target/lays",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868757458Z"
+    },
+    {
+      "name": "Legal \u0026 General",
+      "image_url": "https://www.ssauk.com/static/1a44dd2e-2998-4ac6-b3e6862e16399b85/supplierdirectorydetaillogo_c3bb2391eae9a41b60845257246fad14/Legal-General.png",
+      "target_link": "/target/legalgeneral",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868762467Z"
+    },
+    {
+      "name": "Lenor",
+      "image_url": "https://www.pattersons.co.uk/media/solwin/ourbrand/brand/image/l/e/lenor.jpg",
+      "target_link": "/target/lenor",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868767617Z"
+    },
+    {
+      "name": "Lidl",
+      "image_url": "https://download.logo.wine/logo/Lidl/Lidl-Logo.wine.png",
+      "target_link": "/target/lidl",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868772977Z"
+    },
+    {
+      "name": "Lion",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/cereals-lion-logo.png",
+      "target_link": "/target/lion",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868778087Z"
+    },
+    {
+      "name": "Lipton",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/lipton.png?fbRyRvf2gy6O8JQcQhfxkr8O.CxRGBk.\u0026itok=uZ6IQzoY",
+      "target_link": "/target/lipton",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868783177Z"
+    },
+    {
+      "name": "Lipton Iced Tea",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/LIPTON_PRIMARY_RGB_BMT.png",
+      "target_link": "/target/liptonicedtea",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868788327Z"
+    },
+    {
+      "name": "Lloyds Bank",
+      "image_url": "https://www.lloydsbankinggroup.com/assets/images/site-wide/logos/png/lloyds-bank-300.png",
+      "target_link": "/target/lloyds",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868793507Z"
+    },
+    {
+      "name": "Lockheed Martin",
+      "image_url": "https://pbs.twimg.com/profile_images/1635287976044548108/tNkqLQPN_400x400.png",
+      "target_link": "/target/lockheedmartin",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868798606Z"
+    },
+    {
+      "name": "Loewe",
+      "image_url": "https://logowik.com/content/uploads/images/loewe2671.jpg",
+      "target_link": "/target/loewe",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868803736Z"
+    },
+    {
+      "name": "Loreal / L'oreal",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/2125/brand.gif",
+      "target_link": "/target/loreal",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868809367Z"
+    },
+    {
+      "name": "Louis Vuitton",
+      "image_url": "https://media.designrush.com/inspiration_images/136124/conversions/_1519762849_545_990__1513771354_519_louis-v1_b31600c58738-mobile.jpg",
+      "target_link": "/target/louisvuitton",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868814477Z"
+    },
+    {
+      "name": "Lux",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/2f8428952599e230782f70a2ca0bfc3e5fa2b270-1080x1080.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/lux",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868819606Z"
+    },
+    {
+      "name": "LVMH",
+      "image_url": "https://r.lvmh-static.com/uploads/2010/01/lvmh_logotype_simple_n-1.jpg",
+      "target_link": "/target/lvmh",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868824856Z"
+    },
+    {
+      "name": "Lynx",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/81a3d4dbeb4e81c5c5443bd3616e23b6333428d4-1080x1080.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/lynx",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868829826Z"
+    },
+    {
+      "name": "M\u0026M's",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-05/m-ms-confectionery.png?itok=GeJDAkRI",
+      "target_link": "/target/mandms",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868835447Z"
+    },
+    {
+      "name": "MAC Cosmetics",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/logo-mac_prancheta_1.png?NPZfS4QSWg_6ySGSJKInsSXz2CFRKvhS\u0026itok=2_JpKro7",
+      "target_link": "/target/maccosmetics",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868840637Z"
+    },
+    {
+      "name": "MBDA",
+      "image_url": "https://pbs.twimg.com/profile_images/1572161199751454721/P5ubky0o_400x400.jpg",
+      "target_link": "/target/mbda",
+      "page_number": 2,
+      "scraped_at": "2025-09-10T00:10:32.868845696Z"
+    },
+    {
+      "name": "Magen David Adom",
+      "image_url": "https://honestreporting.com/wp-content/uploads/2021/01/Magen-David-Adom-logo.png",
+      "target_link": "/target/magendavidadom",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097277804Z"
+    },
+    {
+      "name": "Maggi",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/maggi-logo-round-2022.png",
+      "target_link": "/target/maggi",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097289085Z"
+    },
+    {
+      "name": "Magnum Ice Creams",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/26b76dc0a16aa60339c059b31babcb45a6d1409a-1080x1080.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/magnum",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09729649Z"
+    },
+    {
+      "name": "Maison Francis Kurkdjian",
+      "image_url": "https://perfumesociety.org/wp-content/uploads/2014/04/FRANCIS-KURK-1.jpg",
+      "target_link": "/target/maisonfranciskurkdjian",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097303052Z"
+    },
+    {
+      "name": "Maison Margiela Fragrances",
+      "image_url": "https://admin.showstudio.com/images/qJ-C79aRXkFj725FPJYdSkL5QgU=/376561/width-640%7Cformat-jpeg/f92ad3f3434f7a20ca931285c2df9906.png",
+      "target_link": "/target/maisonmargiela",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097308633Z"
+    },
+    {
+      "name": "Malteasers",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-02/maltesers-confectionery.png?itok=hz2XO4mW",
+      "target_link": "/target/malteasers",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097315185Z"
+    },
+    {
+      "name": "Marc Jacobs",
+      "image_url": "https://i.pinimg.com/originals/5d/fe/db/5dfedbb30f0bc5803283b79a4c9da8fd.jpg",
+      "target_link": "/target/marcjacobs",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097320586Z"
+    },
+    {
+      "name": "Marks and Spencer / M\u0026S",
+      "image_url": "https://corporate.marksandspencer.com/sites/marksandspencer/files/styles/desktop/public/marksandspencer/logos/m-s-logo.png",
+      "target_link": "/target/marksandspencer",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097325996Z"
+    },
+    {
+      "name": "Mars",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/Mars%20Wordmark%20RGB%20Blue.png",
+      "target_link": "/target/mars",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097331076Z"
+    },
+    {
+      "name": "Maybelline",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0003/5632/brand.gif",
+      "target_link": "/target/maybelline",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097339181Z"
+    },
+    {
+      "name": "McDonalds",
+      "image_url": "https://1000logos.net/wp-content/uploads/2017/03/McDonalds-logo-500x281.png",
+      "target_link": "/target/mcdonalds",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097344582Z"
+    },
+    {
+      "name": "Mercedes Benz",
+      "image_url": "https://www.graduatesfirst.com/wp-content/uploads/2023/07/mercedes-benz-logo-7500641.png",
+      "target_link": "/target/mercedesbenz",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097371844Z"
+    },
+    {
+      "name": "Meta",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png",
+      "target_link": "/target/meta",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097378727Z"
+    },
+    {
+      "name": "Microsoft",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png",
+      "target_link": "/target/microsoft",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097384708Z"
+    },
+    {
+      "name": "Mikado",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/1Ltb2NBvTAlLdsoEbuAiWq/a315b1d98bb4ff035c3d958dc4f31698/mikado.png?fm=webp\u0026q=80",
+      "target_link": "/target/mikado",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09739083Z"
+    },
+    {
+      "name": "Milka",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/2Tu60gQSuRzwTTRNRuFJ8b/d860b2c5604208f975576d79db179c19/Milka.png?fm=webp\u0026q=80",
+      "target_link": "/target/milka",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097397152Z"
+    },
+    {
+      "name": "Milky Way",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/milkyway%20%281%29.png?itok=jdwcNm0x",
+      "target_link": "/target/milkyway",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097407051Z"
+    },
+    {
+      "name": "Milkybar",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/asset-library/publishingimages/brands/chocolate-confectionery/milkybar-logo-round.png",
+      "target_link": "/target/milkybar",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097413904Z"
+    },
+    {
+      "name": "Minute Maid",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/09/Minute-Maid-Logo.png",
+      "target_link": "/target/minutemaid",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097419204Z"
+    },
+    {
+      "name": "Mirinda",
+      "image_url": "https://1000logos.net/wp-content/uploads/2021/03/Mirinda-Logo.jpg",
+      "target_link": "/target/mirinda",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097424354Z"
+    },
+    {
+      "name": "Monday.com",
+      "image_url": "https://ceblog.s3.amazonaws.com/wp-content/uploads/2020/11/13182233/Monday-Logo-1.png",
+      "target_link": "/target/monday",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097429564Z"
+    },
+    {
+      "name": "Mondelez",
+      "image_url": "https://s3-symbol-logo.tradingview.com/mondelez--600.png",
+      "target_link": "/target/mondelez",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097434584Z"
+    },
+    {
+      "name": "Monster Energy",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/027/076/245/original/monster-energy-logo-transparent-free-png.png",
+      "target_link": "/target/monsterenergy",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097440625Z"
+    },
+    {
+      "name": "Moovit",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmGGog03Rp28l-WS8xL5iCUJakSfX14s_qdxOuOkJ\u0026s",
+      "target_link": "/target/moovit",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097445915Z"
+    },
+    {
+      "name": "MoroccanOil",
+      "image_url": "https://cdn.supadupa.me/shop/13/images/1908639/morrocan-oil-logo-gravity-_grande.png",
+      "target_link": "/target/moroccanoil",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097451176Z"
+    },
+    {
+      "name": "Motorola",
+      "image_url": "https://cdn.lovesavingsgroup.com/logos/motorola.jpg",
+      "target_link": "/target/motorola",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097456335Z"
+    },
+    {
+      "name": "Mountain Dew",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0009/3885/brand.gif",
+      "target_link": "/target/mountaindew",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097461555Z"
+    },
+    {
+      "name": "Movenpick",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/movenpick-logo-round-2021.png",
+      "target_link": "/target/movenpick",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097466695Z"
+    },
+    {
+      "name": "Mugler Beauty",
+      "image_url": "https://notwanepharmacy.store/wp-content/uploads/2020/08/mugler-logo.png",
+      "target_link": "/target/mugler",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097471835Z"
+    },
+    {
+      "name": "Nescafe",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/nescafe-logo-square.png",
+      "target_link": "/target/nescafe",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097476915Z"
+    },
+    {
+      "name": "Nespresso",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/nespresso-logo-round-2.png",
+      "target_link": "/target/nespresso",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097498386Z"
+    },
+    {
+      "name": "Nesquik",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/nesquik-logo-round-2021.png",
+      "target_link": "/target/nesquik",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097505529Z"
+    },
+    {
+      "name": "Nestle",
+      "image_url": "https://pbs.twimg.com/profile_images/1232679317634678785/68qsL0TI_400x400.jpg",
+      "target_link": "/target/nestle",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097511972Z"
+    },
+    {
+      "name": "Next",
+      "image_url": "https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-white-v2-logo.jpg?w=767",
+      "target_link": "/target/next",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097518124Z"
+    },
+    {
+      "name": "NIOD",
+      "image_url": "https://www.cosmetify.com/images/brands/niod.png",
+      "target_link": "/target/niod",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097525047Z"
+    },
+    {
+      "name": "Noon.com",
+      "image_url": "https://www.channelengine.com/hubfs/Imported_Blog_Media/noon-website.jpg",
+      "target_link": "/target/noon.com",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097531389Z"
+    },
+    {
+      "name": "Nutella",
+      "image_url": "https://i.pinimg.com/474x/35/d5/53/35d553cbf3530abf06287637419bee7d.jpg",
+      "target_link": "/target/nutella",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09753719Z"
+    },
+    {
+      "name": "Nvidia",
+      "image_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-l@2x.png",
+      "target_link": "/target/nvidia",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097543743Z"
+    },
+    {
+      "name": "NYX Professional Makeup",
+      "image_url": "https://lens-storage.storage.googleapis.com/png/74504afc12b6483d988c46d13fa2f6ca",
+      "target_link": "/target/nyx",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097549343Z"
+    },
+    {
+      "name": "Oasis",
+      "image_url": "https://www.tabletalkmedia.co.uk/wp-content/uploads/2015/11/Oasis-Logo.png",
+      "target_link": "/target/oasis",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097564913Z"
+    },
+    {
+      "name": "Olay",
+      "image_url": "https://1000logos.net/wp-content/uploads/2021/04/Olay-logo.png",
+      "target_link": "/target/olay",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097570624Z"
+    },
+    {
+      "name": "Old Spice",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/04/Logo-Old-Spice1.jpg",
+      "target_link": "/target/oldspice",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09757875Z"
+    },
+    {
+      "name": "OpenAI",
+      "image_url": "https://www.webfx.com/wp-content/uploads/2023/07/what-is-openai.png",
+      "target_link": "/target/openai",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09758445Z"
+    },
+    {
+      "name": "Opentable",
+      "image_url": "https://images.ctfassets.net/2d5q1td6cyxq/3PVUGEvFSzhz3ITHrcGA0q/154f94f5ad8fdeef15079efeee37238c/Mark_RGB_White-Tile-512.png",
+      "target_link": "/target/opentable",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097590211Z"
+    },
+    {
+      "name": "Oracle",
+      "image_url": "https://cdn.freebiesupply.com/logos/large/2x/oracle-1-logo-png-transparent.png",
+      "target_link": "/target/oracle",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097595522Z"
+    },
+    {
+      "name": "Oral B",
+      "image_url": "https://shop.oralb.co.uk/c-images/fb-image.png",
+      "target_link": "/target/oralb",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097600802Z"
+    },
+    {
+      "name": "Orangina",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/6/62/Orangina_logo.png",
+      "target_link": "/target/orangina",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097605901Z"
+    },
+    {
+      "name": "Oreo",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/5iOobhpfjRiKPyLBNH4loZ/3848ba1a01f0bf30c3a608d4584a7936/Oreo.png?fm=webp\u0026q=80",
+      "target_link": "/target/oreo",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097611071Z"
+    },
+    {
+      "name": "Origins",
+      "image_url": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1429096865/i9ijmtclwwhftrtcuigx.png",
+      "target_link": "/target/origins",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097616101Z"
+    },
+    {
+      "name": "Outbrain",
+      "image_url": "https://opinionstage-res.cloudinary.com/images/f_auto,q_auto/v1641219211/Case-studies-outbrain-/Case-studies-outbrain-.jpg",
+      "target_link": "/target/outbrain",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097621191Z"
+    },
+    {
+      "name": "Pampers",
+      "image_url": "https://seeklogo.com/images/P/pampers-logo-D613293CC6-seeklogo.com.png",
+      "target_link": "/target/pampers",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097626421Z"
+    },
+    {
+      "name": "Pantene",
+      "image_url": "https://logowik.com/content/uploads/images/865_pantene.jpg",
+      "target_link": "/target/pantene",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09763152Z"
+    },
+    {
+      "name": "Papa Johns",
+      "image_url": "https://download.logo.wine/logo/Papa_John's_Pizza/Papa_John's_Pizza-Logo.wine.png",
+      "target_link": "/target/papajohns",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09763668Z"
+    },
+    {
+      "name": "Paramount",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png",
+      "target_link": "/target/paramount",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09764174Z"
+    },
+    {
+      "name": "Payoneer",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/027/127/484/original/payoneer-logo-payoneer-icon-transparent-free-png.png",
+      "target_link": "/target/payoneer",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09764693Z"
+    },
+    {
+      "name": "Pedigree",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-04/Logos_Pedigree.png",
+      "target_link": "/target/pedigree",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09765196Z"
+    },
+    {
+      "name": "Peet's Coffee",
+      "image_url": "https://dg6qn11ynnp6a.cloudfront.net/wp-content/uploads/2019/10/04114953/18274759_10154462185956190_6773480231895222987_n.jpg",
+      "target_link": "/target/peetscoffee",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097657009Z"
+    },
+    {
+      "name": "Pepsi",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/0128/brand.gif",
+      "target_link": "/target/pepsi",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097663111Z"
+    },
+    {
+      "name": "Perrier",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/perrier-logo-round-green.png",
+      "target_link": "/target/perrier",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097668211Z"
+    },
+    {
+      "name": "Persil",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/49f021024dbc823ce3fd71bac47d5627f560d333-1080x1080.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/persil",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09767334Z"
+    },
+    {
+      "name": "Philadelphia",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/6A38MJea4O7hjKkv2FryNF/f50fa6c7b17fc2d68f56dfea06ba15ad/Philadelphia.png?fm=webp\u0026q=80",
+      "target_link": "/target/philadelphia",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.0976784Z"
+    },
+    {
+      "name": "Piers Morgan",
+      "image_url": "https://pbs.twimg.com/profile_images/1501498693115068424/0_lNwdrm_400x400.jpg",
+      "target_link": "/target/piersmorgan",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09768352Z"
+    },
+    {
+      "name": "Pizza Hut",
+      "image_url": "https://logowik.com/content/uploads/images/130_pizzahut.jpg",
+      "target_link": "/target/pizzahut",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09768859Z"
+    },
+    {
+      "name": "Popeyes",
+      "image_url": "https://restaurantpropertysellers.com/wp-content/uploads/2021/11/popeyes-london-reviews.png",
+      "target_link": "/target/popeyes",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097693699Z"
+    },
+    {
+      "name": "Power Action",
+      "image_url": "https://media.home.bargains/brand-images/3/6/9/0/36907459caf36331f385a4772a62ee468006af37.png?x=200",
+      "target_link": "/target/poweraction",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097700252Z"
+    },
+    {
+      "name": "Powerade",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/powerade-logo.png",
+      "target_link": "/target/powerade",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097705352Z"
+    },
+    {
+      "name": "Prada Beauty",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/prada-original.png",
+      "target_link": "/target/prada",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097710381Z"
+    },
+    {
+      "name": "Pret-a-manger",
+      "image_url": "https://assets-global.website-files.com/5fc66e869d342de866828246/608b0051cb53d41b16cdb8a7_8c91b58f-2c56-42fb-9992-b35e250d4b1aLogo.jpeg",
+      "target_link": "/target/pret",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097716182Z"
+    },
+    {
+      "name": "Priceline",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/7f/7e/667f7e45-46c3-e181-b66f-a4ecde39c5ea/Standard_App_Icon-0-0-1x_U007epad-0-0-sRGB-85-220.png/460x0w.webp",
+      "target_link": "/target/priceline",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09772514Z"
+    },
+    {
+      "name": "Procter \u0026 Gamble",
+      "image_url": "https://logowik.com/content/uploads/images/108_procterandgamble.jpg",
+      "target_link": "/target/procterandgamble",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09773043Z"
+    },
+    {
+      "name": "Puma",
+      "image_url": "https://staticg.sportskeeda.com/editor/2023/03/bda84-16779522739911-1920.jpg",
+      "target_link": "/target/puma",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09773609Z"
+    },
+    {
+      "name": "Pure Life",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/pure-life-logo-square.png",
+      "target_link": "/target/purelife",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097741501Z"
+    },
+    {
+      "name": "Purina",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/purina-logo-square-2023.png",
+      "target_link": "/target/purina",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097746891Z"
+    },
+    {
+      "name": "Quaker Oats",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082012/quakeroats.jpg",
+      "target_link": "/target/quaker",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097752061Z"
+    },
+    {
+      "name": "Quality Street",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/qs-logo-round.png",
+      "target_link": "/target/qualitystreet",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097757331Z"
+    },
+    {
+      "name": "Ralph Lauren Frangrances",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0003/0211/brand.gif",
+      "target_link": "/target/ralphlauren",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097762701Z"
+    },
+    {
+      "name": "Rani",
+      "image_url": "https://aujan.com/wp-content/uploads/2015/03/rani1.jpg",
+      "target_link": "/target/rani",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097767721Z"
+    },
+    {
+      "name": "Rapunzel",
+      "image_url": "https://www.rapunzel.de/design/logo-rapunzel-naturkost-legau.png",
+      "target_link": "/target/rapunzel",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097772861Z"
+    },
+    {
+      "name": "Rapyd",
+      "image_url": "https://asset.brandfetch.io/idof9qvLRk/idxKqLpmSt.jpeg",
+      "target_link": "/target/rapyd",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.09777791Z"
+    },
+    {
+      "name": "Rare Beauty by Selena Gomez",
+      "image_url": "https://s1.tryandreview.com/uploads/images/brands/fe33a974152b68a4d22073dd2ec79c176ab1cf0a.png",
+      "target_link": "/target/rarebeauty",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097784493Z"
+    },
+    {
+      "name": "Raytheon",
+      "image_url": "https://i.redd.it/dbnb0o1q6ci81.png",
+      "target_link": "/target/raytheon",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097789863Z"
+    },
+    {
+      "name": "RBS",
+      "image_url": "https://www.princessroyaltrainingawards.com/wp-content/uploads/2017/08/Logos-510x288-RBS.jpg",
+      "target_link": "/target/rbs",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097795013Z"
+    },
+    {
+      "name": "Rentalcars.com",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/e0/e5/45e0e5d7-4571-8720-3042-165a262b6e26/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/460x0w.webp",
+      "target_link": "/target/rentalcars",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097800203Z"
+    },
+    {
+      "name": "Rexona",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/d806c6c7edf6271cb15478eae7c34485f4f35d41-1080x1080.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/rexona",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097805333Z"
+    },
+    {
+      "name": "Ritz",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/54j664CVGgUSt0VYFNdOYI/537fd98c17e9ff73bb2e6dfe515aab3f/Ritz.png?fm=webp\u0026q=80",
+      "target_link": "/target/ritz",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097810493Z"
+    },
+    {
+      "name": "River Island",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/bltd2ce17abcde2167e/621c9c6327606b7ce81a315e/riverisland.png",
+      "target_link": "/target/riverisland",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097816494Z"
+    },
+    {
+      "name": "Rockstar Energy",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2387/brand.gif",
+      "target_link": "/target/rockstar",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097821834Z"
+    },
+    {
+      "name": "Royal Canin",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-03/Logos_BUSINESS_SEGMENTS_23.png",
+      "target_link": "/target/royalcanin",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097826914Z"
+    },
+    {
+      "name": "S.Pellegrino",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/asset-library/publishingimages/brands/bottled-water/spellegrino-logo-round.png",
+      "target_link": "/target/spellegrino",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097832224Z"
+    },
+    {
+      "name": "Sabra",
+      "image_url": "https://pbs.twimg.com/profile_images/1383060096251351050/Ip84a103_400x400.png",
+      "target_link": "/target/sabra",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097837314Z"
+    },
+    {
+      "name": "Sadaf Foods",
+      "image_url": "https://www.sadaf.com/cdn/shop/files/sadaf-logo_a5f4d83a-9320-4874-9e71-a4002d5e7f4a_600x.png",
+      "target_link": "/target/sadaf",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097842344Z"
+    },
+    {
+      "name": "Sadia Foods",
+      "image_url": "https://www.sadia-life.com/media/1nbfuepo/sadia-logo.svg",
+      "target_link": "/target/sadia",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097847363Z"
+    },
+    {
+      "name": "SAP",
+      "image_url": "https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_170763.png",
+      "target_link": "/target/sap",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097852493Z"
+    },
+    {
+      "name": "Schweppes",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/schweppes-logo.png",
+      "target_link": "/target/schweppes",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097857693Z"
+    },
+    {
+      "name": "Schweppes",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/07/Schweppes-logo.jpg",
+      "target_link": "/target/schweppes",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097862743Z"
+    },
+    {
+      "name": "Scotia Bank",
+      "image_url": "https://logosandtypes.com/wp-content/uploads/2020/08/Scotiabank.png",
+      "target_link": "/target/scotiabank",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097867853Z"
+    },
+    {
+      "name": "Sephora",
+      "image_url": "https://www.fddinternational.co.uk/wp-content/uploads/2023/03/sephora-logo.jpg",
+      "target_link": "/target/sephora",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097874385Z"
+    },
+    {
+      "name": "Seven Seas",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/2/24/Seven_Seas_%28vitamins%29_1.png",
+      "target_link": "/target/sevenseas",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097879645Z"
+    },
+    {
+      "name": "Shake Shack",
+      "image_url": "https://d3hjzzsa8cr26l.cloudfront.net/5a984afc-cdfd-11e8-b19d-e5c91e3daac6.jpg",
+      "target_link": "/target/shakeshack",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097884755Z"
+    },
+    {
+      "name": "STELLA by Stella McCartney",
+      "image_url": "https://r.lvmh-static.com/uploads/2022/08/stella-logo.png",
+      "target_link": "/target/stella",
+      "page_number": 3,
+      "scraped_at": "2025-09-10T00:10:34.097889845Z"
+    },
+    {
+      "name": "eToro",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/93/5d/87935d18-1213-3914-55fc-bf9d404e5ac9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+      "target_link": "/target/etoro",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326279396Z"
+    },
+    {
+      "name": "Shams",
+      "image_url": "https://d36musakzcdau7.cloudfront.net/ourdesistore/Product/393795f0-8fc4-11ec-b3e8-2177376a7905/resize/SHAMS-DATES-2LB-SHAMS.jpg-1645452365.jpg.webp",
+      "target_link": "/target/shams",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.32629747Z"
+    },
+    {
+      "name": "Shredded Wheat",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/cereals-shredded-wheat-logo.png",
+      "target_link": "/target/shreddedwheat",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326306798Z"
+    },
+    {
+      "name": "Shreddies",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/cereals-shreddies-logo.png",
+      "target_link": "/target/shreddies",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326316427Z"
+    },
+    {
+      "name": "Siemens",
+      "image_url": "https://logowik.com/content/uploads/images/316_siemens.jpg",
+      "target_link": "/target/siemens",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326324923Z"
+    },
+    {
+      "name": "Simply Beverages",
+      "image_url": "https://dlmdistributors.com/wp-content/uploads/2019/09/simply-beverages-logo.png",
+      "target_link": "/target/simplybeverges",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326332638Z"
+    },
+    {
+      "name": "Skechers",
+      "image_url": "https://logowik.com/content/uploads/images/skechers5769.logowik.com.webp",
+      "target_link": "/target/skechers",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326339942Z"
+    },
+    {
+      "name": "Skims",
+      "image_url": "https://pbs.twimg.com/profile_images/1619738248468922368/dYCNOxM__400x400.jpg",
+      "target_link": "/target/skims",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326347286Z"
+    },
+    {
+      "name": "Skittles",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/Skittles%20Logo%20sRGB_0.png?itok=VrTgUrCJ",
+      "target_link": "/target/skittles",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326354509Z"
+    },
+    {
+      "name": "Smarties",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/smarties-logo-round-2022.png",
+      "target_link": "/target/smarties",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326363667Z"
+    },
+    {
+      "name": "Smartwater",
+      "image_url": "https://www.coca-colahellenic.com/content/dam/cch/us/images/our-24-7-portfolio/brand-image/glaceau-smartwater-logo-300x300.png",
+      "target_link": "/target/smartwater",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326370931Z"
+    },
+    {
+      "name": "Snickers",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/Snickers%20Logo%20sRGB_0.png?itok=xzqdo4SG",
+      "target_link": "/target/snickers",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326377914Z"
+    },
+    {
+      "name": "SodaStream",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092012/soda_stream.png",
+      "target_link": "/target/sodastream",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326385328Z"
+    },
+    {
+      "name": "Sour Patch Kids",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/3inC0ORwSJExVD3GJLX8eB/065d0ab86ec117e5f9a1bf2e4641bbc3/SPK.png?fm=webp\u0026q=80",
+      "target_link": "/target/sourpatchkids",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326392482Z"
+    },
+    {
+      "name": "Sprite",
+      "image_url": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/sprite-logo.png",
+      "target_link": "/target/sprite",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326399525Z"
+    },
+    {
+      "name": "Spyglass Media Group",
+      "image_url": "https://spyglassmediagroup.com/user/themes/spyglass/images/share.jpg",
+      "target_link": "/target/spyglass",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326406579Z"
+    },
+    {
+      "name": "Standard Life",
+      "image_url": "https://www.lincs-chamber.co.uk/wp-content/uploads/2018/02/Standard-Life-Assurance-logo.png",
+      "target_link": "/target/standardlife",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326413572Z"
+    },
+    {
+      "name": "Starbucks",
+      "image_url": "https://www.tailorbrands.com/wp-content/uploads/2020/11/starbucks-logo-2011.jpg",
+      "target_link": "/target/starbucks",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326421808Z"
+    },
+    {
+      "name": "Sudocrem",
+      "image_url": "https://www.chemist.net/pub/media/brand/sudocrem_bd37.jpg",
+      "target_link": "/target/sudocrem",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326428982Z"
+    },
+    {
+      "name": "Surf",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/e80729857a4e391984df4473831a0cce25271b02-280x280.jpg?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/surf",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326436025Z"
+    },
+    {
+      "name": "Taboola",
+      "image_url": "https://www.proggio.com/wp-content/uploads/2019/01/feat-Taboola.png",
+      "target_link": "/target/taboola",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326443059Z"
+    },
+    {
+      "name": "Taco Bell",
+      "image_url": "https://www.hatchwise.com/wp-content/uploads/2023/01/image-25.png",
+      "target_link": "/target/tacobell",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326450253Z"
+    },
+    {
+      "name": "TAG Heuer",
+      "image_url": "https://i.pinimg.com/originals/50/5f/1d/505f1dc613cff29078ccb445708b7b33.png",
+      "target_link": "/target/tagheuer",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326457346Z"
+    },
+    {
+      "name": "Tampax",
+      "image_url": "https://logowik.com/content/uploads/images/tampax3061.jpg",
+      "target_link": "/target/tampax",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326464319Z"
+    },
+    {
+      "name": "Tang",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/31n9rZrTgrRyikXoIEXMAu/bd9a98bedd9da3ba9195ae9b0dc30ca4/Tang.png?fm=webp\u0026q=80",
+      "target_link": "/target/tang",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326471243Z"
+    },
+    {
+      "name": "Ted Baker",
+      "image_url": "https://pbs.twimg.com/profile_images/1568200497495957504/KtOLABAq_400x400.jpg",
+      "target_link": "/target/tedbaker",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326499707Z"
+    },
+    {
+      "name": "Temptations",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-04/Logos_Temptations.png",
+      "target_link": "/target/temptations",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326510568Z"
+    },
+    {
+      "name": "Tesco",
+      "image_url": "https://assets.website-files.com/622733c59bf20d8a074764f6/622733c59bf20dbdf4476887_Tesco.png",
+      "target_link": "/target/tesco",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326518092Z"
+    },
+    {
+      "name": "Teva Pharmaceuticals",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Teva_Pharmaceuticals_logo.png/2560px-Teva_Pharmaceuticals_logo.png",
+      "target_link": "/target/teva",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326525276Z"
+    },
+    {
+      "name": "The Ordinary",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122017/untitled-1_97.png?0JVd8zz_2757YBrIEmJVzoJjDzlL4dQS\u0026itok=MBbjYubZ",
+      "target_link": "/target/theordinary",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.32653233Z"
+    },
+    {
+      "name": "Tic Tac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tic_Tac_logo_2022-present.png",
+      "target_link": "/target/tictac",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326539493Z"
+    },
+    {
+      "name": "Tide",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tide_Logo_RGB_2014.png/1200px-Tide_Logo_RGB_2014.png",
+      "target_link": "/target/tide",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326546737Z"
+    },
+    {
+      "name": "Tiffany \u0026 Co.",
+      "image_url": "https://clearvisioneyecare.ca/wp-content/uploads/2017/03/Tiffany-Co-logo.jpg",
+      "target_link": "/target/tiffanyco",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326555103Z"
+    },
+    {
+      "name": "Tim Hortons",
+      "image_url": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/168/168197/168197.png?filename=Tim_Hortons_Maple_Leaf.png",
+      "target_link": "/target/timhortons",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326562437Z"
+    },
+    {
+      "name": "Toblerone",
+      "image_url": "https://images.ctfassets.net/zo243s55pyir/4zi5ZpJa8pnHdtjzAxRoMx/c303ae017c4f78233f97ca7b822b45b0/Toblerone.png?fm=webp\u0026q=80",
+      "target_link": "/target/toblerone",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326574731Z"
+    },
+    {
+      "name": "Tom Ford Beauty",
+      "image_url": "https://media.licdn.com/dms/image/D4E0BAQH9tPiLt38cxA/company-logo_200_200/0/1695305566079?e=2147483647\u0026v=beta\u0026t=er2z4E0XEEsougatDEiiqIlaKhIJ4JnbpT2yTPKZqbM",
+      "target_link": "/target/tomfordbeauty",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326582045Z"
+    },
+    {
+      "name": "Too Faced",
+      "image_url": "https://assets.stickpng.com/thumbs/62793906bb132b96e73ee3b7.png",
+      "target_link": "/target/toofaced",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326589399Z"
+    },
+    {
+      "name": "Tory Burch",
+      "image_url": "https://1000logos.net/wp-content/uploads/2017/08/Tory-Burch-emblem.jpg",
+      "target_link": "/target/toryburch",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326596442Z"
+    },
+    {
+      "name": "Tresemme",
+      "image_url": "https://assets.stickpng.com/images/5a393116c488ac6062ac2ad2.png",
+      "target_link": "/target/tresemme",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326604027Z"
+    },
+    {
+      "name": "Tropicana",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0017/4978/brand.gif",
+      "target_link": "/target/tropicana",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326612633Z"
+    },
+    {
+      "name": "Twix",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/twix%20%282%29.png?itok=euLB-mXk",
+      "target_link": "/target/twix",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326621721Z"
+    },
+    {
+      "name": "Unicef",
+      "image_url": "https://www.egnetwork.eu/wp-content/uploads/2021/03/Logo_Signature_Container_Circle_ENG_RGB.png",
+      "target_link": "/target/unicef",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326629255Z"
+    },
+    {
+      "name": "Unilever",
+      "image_url": "https://www.logodesignlove.com/wp-content/uploads/2011/12/unilever-logo.jpg",
+      "target_link": "/target/unilever",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326636539Z"
+    },
+    {
+      "name": "Urban Decay",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012012/ud.png",
+      "target_link": "/target/urbandecay",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326643793Z"
+    },
+    {
+      "name": "Valentino Beauty",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2916/brand.gif",
+      "target_link": "/target/valentino",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326650816Z"
+    },
+    {
+      "name": "Venus",
+      "image_url": "https://m.media-amazon.com/images/S/aplus-media/vc/df9fce60-bbdd-47a9-9971-8f79194b46cc._CR0,0,300,300_PT0_SX300__.jpg",
+      "target_link": "/target/venus",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326657729Z"
+    },
+    {
+      "name": "Viber",
+      "image_url": "https://cdn-icons-png.flaticon.com/512/124/124016.png",
+      "target_link": "/target/viber",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326664643Z"
+    },
+    {
+      "name": "Vicks",
+      "image_url": "https://images.ctfassets.net/xuuihvmvy6c9/5R9Uu2Vwa9vtDltACu79Tt/cabf9fbffcc32f7aae7b16088a1030fd/p-1994-XXL_2x.png",
+      "target_link": "/target/vicks",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326674001Z"
+    },
+    {
+      "name": "Victorias Secret",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042017/untitled-2_15.png",
+      "target_link": "/target/victoriassecret",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326682467Z"
+    },
+    {
+      "name": "Viktor \u0026 Rolf Beauty",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062010/VR_logo.gif",
+      "target_link": "/target/viktor+rolf",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.32668965Z"
+    },
+    {
+      "name": "Visa",
+      "image_url": "https://usa.visa.com/dam/VCOM/regional/ve/romania/blogs/hero-image/visa-logo-800x450.jpg",
+      "target_link": "/target/visa",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326703848Z"
+    },
+    {
+      "name": "Vitaminwater",
+      "image_url": "https://pbs.twimg.com/profile_images/493743546512314369/HOtBuCiX_400x400.png",
+      "target_link": "/target/vitaminwater",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326711031Z"
+    },
+    {
+      "name": "Vittel",
+      "image_url": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/vittel-logo-round.png",
+      "target_link": "/target/vittel",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326718275Z"
+    },
+    {
+      "name": "Volvic",
+      "image_url": "https://www.volvic.co.uk/fileadmin/user_upload/volvic_instagram.png",
+      "target_link": "/target/volvic",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326725359Z"
+    },
+    {
+      "name": "Volvo Heavy Machinery",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052018/untitled-4_19.png?Nrpk5Y1UlrEvEEOMK6vQRsPrg_u.VN8O\u0026itok=wHARdQlD",
+      "target_link": "/target/volvo",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326732212Z"
+    },
+    {
+      "name": "Walkers",
+      "image_url": "https://www.walkers.co.uk/assets/img/walkers__logo.png",
+      "target_link": "/target/walkers",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326739195Z"
+    },
+    {
+      "name": "Walls Ice Creams",
+      "image_url": "https://cdn.sanity.io/images/92ui5egz/production/88537a9efbbd962b3ff2f063af7b7b6985c146bc-1080x1080.png?w=375\u0026h=375\u0026fit=crop\u0026auto=format",
+      "target_link": "/target/walls",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326746219Z"
+    },
+    {
+      "name": "Walmart",
+      "image_url": "https://media.designrush.com/inspiration_images/345908/conversions/walmart_1-preview.jpg",
+      "target_link": "/target/walmart",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326755977Z"
+    },
+    {
+      "name": "Waze",
+      "image_url": "https://9to5google.com/2020/06/29/waze-logo-2020-brand-refresh/waze-logo-2020-1/",
+      "target_link": "/target/waze",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326764123Z"
+    },
+    {
+      "name": "Wells Fargo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wells_Fargo_Logo_%282020%29.svg/800px-Wells_Fargo_Logo_%282020%29.svg.png",
+      "target_link": "/target/wellsfargo",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326771116Z"
+    },
+    {
+      "name": "Whiskas",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-02/whiskas.png",
+      "target_link": "/target/whiskas",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.32677822Z"
+    },
+    {
+      "name": "Wix",
+      "image_url": "https://cdn-icons-png.flaticon.com/512/5968/5968762.png",
+      "target_link": "/target/wix",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326785243Z"
+    },
+    {
+      "name": "Wrigley's Extra",
+      "image_url": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/extra%20%281%29.png?itok=gLrMwSIU",
+      "target_link": "/target/wrigleysextra",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326792267Z"
+    },
+    {
+      "name": "Yum Foods",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yum%21_Brands_logo.svg/1200px-Yum%21_Brands_logo.svg.png",
+      "target_link": "/target/yumfoods",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.32679936Z"
+    },
+    {
+      "name": "Yves Saint Laurent Beauty / YSL Beauty",
+      "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/logo_cassandre-ysl.png",
+      "target_link": "/target/ysl",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326806494Z"
+    },
+    {
+      "name": "Zara",
+      "image_url": "https://static.dezeen.com/uploads/2019/02/new-zara-logo-hero-1.jpg",
+      "target_link": "/target/zara",
+      "page_number": 4,
+      "scraped_at": "2025-09-10T00:10:35.326813558Z"
+    }
+  ],
+  "scraped_at": "2025-09-10T00:10:23.072055554Z",
+  "last_page_empty": true
+}

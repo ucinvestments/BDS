@@ -1,0 +1,15 @@
+services:
+  boycott-scraper:
+    build: .
+    container_name: boycott-thewitness-scraper
+    volumes:
+      - ./output:/output
+    environment:
+      - OUTPUT_DIR=/output
+    networks:
+      - scraper-network
+    restart: "no"
+
+networks:
+  scraper-network:
+    driver: bridge
