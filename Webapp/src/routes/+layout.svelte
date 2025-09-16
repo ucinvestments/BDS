@@ -43,8 +43,12 @@
 		</a>
 
 		<!-- Mobile menu toggle -->
-		<button class="mobile-menu-toggle" on:click={toggleMobileMenu} aria-label="Toggle navigation menu">
-			<Icon icon={mobileMenuOpen ? "mdi:close" : "mdi:menu"} class="mobile-menu-icon" />
+		<button
+			class="mobile-menu-toggle"
+			on:click={toggleMobileMenu}
+			aria-label="Toggle navigation menu"
+		>
+			<Icon icon={mobileMenuOpen ? 'mdi:close' : 'mdi:menu'} class="mobile-menu-icon" />
 		</button>
 
 		<!-- Desktop navigation -->
@@ -88,11 +92,21 @@
 		<!-- Mobile navigation -->
 		{#if mobileMenuOpen}
 			<div class="mobile-nav" in:fade={{ duration: 200 }}>
-				<a href="/" class="mobile-nav-link" class:active={$page.url.pathname === '/'} on:click={closeMobileMenu}>
+				<a
+					href="/"
+					class="mobile-nav-link"
+					class:active={$page.url.pathname === '/'}
+					on:click={closeMobileMenu}
+				>
 					<Icon icon="mdi:home" class="nav-icon" />
 					Explorer
 				</a>
-				<a href="/about" class="mobile-nav-link" class:active={$page.url.pathname === '/about'} on:click={closeMobileMenu}>
+				<a
+					href="/about"
+					class="mobile-nav-link"
+					class:active={$page.url.pathname === '/about'}
+					on:click={closeMobileMenu}
+				>
 					<Icon icon="mdi:information" class="nav-icon" />
 					About
 				</a>
@@ -105,11 +119,21 @@
 					<Icon icon="mdi:account-plus" class="nav-icon" />
 					Contributing
 				</a>
-				<a href="/resources" class="mobile-nav-link" class:active={$page.url.pathname === '/resources'} on:click={closeMobileMenu}>
+				<a
+					href="/resources"
+					class="mobile-nav-link"
+					class:active={$page.url.pathname === '/resources'}
+					on:click={closeMobileMenu}
+				>
 					<Icon icon="mdi:book-open-page-variant" class="nav-icon" />
 					Resources
 				</a>
-				<a href="/stats" class="mobile-nav-link" class:active={$page.url.pathname === '/stats'} on:click={closeMobileMenu}>
+				<a
+					href="/stats"
+					class="mobile-nav-link"
+					class:active={$page.url.pathname === '/stats'}
+					on:click={closeMobileMenu}
+				>
 					<Icon icon="mdi:chart-bar" class="nav-icon" />
 					Statistics
 				</a>
