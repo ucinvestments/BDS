@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "search_date": "2025-09-09T20:31:00.386337",
+    "search_date": "2026-04-17T02:07:35.600105",
     "total_companies": 98,
     "companies_found": 9,
     "companies_not_found": 89
@@ -244,7 +244,7 @@
           "company_name": "Ashtrom Groupקבוצת אשטרום בע\"מ",
           "traded_in": "TASE",
           "headquarters": "Israel",
-          "involvement": "Economic Exploitation|Exploitation of Occupied Production and Resources|Settlement Enterprise|Israeli Construction on Occupied Land|Settlement Production|Population Control|Specialized Equipment and Services|The Wall and Checkpoints|",
+          "involvement": "Economic Exploitation|Exploitation of Occupied Production and Resources|Settlement Enterprise|Settlement Production|",
           "search_term": "Group"
         }
       ]
@@ -461,7 +461,7 @@
           "company_name": "Hewlett Packard Enterprise (HPE)",
           "traded_in": "NYSE",
           "headquarters": "USA",
-          "involvement": "Population Control|Specialized Equipment and Services|",
+          "involvement": "Population Control|Specialized Equipment and Services|The Wall and Checkpoints|",
           "search_term": "Hewlett Packard Enterprise (HPE)"
         }
       ]
